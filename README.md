@@ -1,6 +1,6 @@
-**<u>Instructions for generating Circos Plots</u>**
+# Instructions for generating Circos Plots
 
-<u>Input barcoding file:</u>
+### Input barcoding file:
 
 - The barcodes present in each tissue for each NHP were exported as
   tab-delimited text files with the following format (see input.txt
@@ -23,20 +23,20 @@
     that tissue attributed to each specific barcode. Absence of barcodes
     are denoted as empty cells
 
-<u>Python script usage general instructions:</u>
+### Python script usage general instructions
 
 - Create folders for each NHP and using the input barcode file for each
   NHP (see above), run the following 4 scripts independently, generating
   individual output files.
 
-- Create a Circos configuration file (e.g., ‘xxxx.conf’ for each NHP
+- Create a Circos configuration file (e.g., ‘xxxx.conf’) for each NHP
   that points to the newly generated files (see Part C).
 
 - Install Circos software and plot using Circos configuration file for
   each NHP. Manually update the configuration file to change coloring,
   sample ordering and formatting.
 
-1.  **<u>Python scripts</u>**
+## A. Python scripts
 
 <u>1_Circos_chrombands.py script:</u>
 
@@ -57,9 +57,9 @@
 - The order of the samples in the karyotype file defines the order in
   which they are plotted by Circos.
 
-**Example terminal code:**
+### Example terminal code
 
-python3 1_Circos_chrombands.py input.txt \> karyotype.txt
+`python3 1_Circos_chrombands.py input.txt > karyotype.txt`
 
 <u>2_Circos_highlight.py script:</u>
 
@@ -77,9 +77,9 @@ python3 1_Circos_chrombands.py input.txt \> karyotype.txt
   the coloring of sterile tissues to a lighter shade (i.e., ‘blue’
   becomes ‘vlblue’ \[very light blue\]).
 
-**Example terminal code:**
+### Example terminal code:
 
-python3 2_Circos_highlight.py input.txt \> highlight.txt
+`python3 2_Circos_highlight.py input.txt > highlight.txt`
 
 <u>3_Circos_links.py script:</u>
 
@@ -100,9 +100,9 @@ python3 2_Circos_highlight.py input.txt \> highlight.txt
 - The output of this script (i.e., ‘link.txt’) is a tab-delimited file
   required by Circos for plotting.
 
-**Example terminal code:**
+### Example terminal code:
 
-python3 3_Circos_link.py input.txt \> link.txt
+`python3 3_Circos_link.py input.txt > link.txt`
 
 <u>4_Circos_link_rules.py script:</u>
 
@@ -119,17 +119,17 @@ python3 3_Circos_link.py input.txt \> link.txt
 - <u>Note:</u> You may need to manually edit the rules text and color
   based on how links were manually edited above.
 
-**Example terminal code:**
+### Example terminal code:
 
-python3 4_Circos_rules_link.py input.txt \> rules.txt
+`python3 4_Circos_rules_link.py input.txt > rules.txt`
 
-**B. Manual generation of additional metadata files**
+## B. Manual generation of additional metadata files
 
 Circos allows the inclusion of additional information around the graph
-as tracks. In this work, we included two additiaal pices of information:
+as tracks. In this work, we included two additional pieces of information:
 the time of PET-CT detection for the tissues and the total Mtb CFU
 burden in each tissue at time of necropsy. To plot this information, we
-manually generated two addiotnal files:
+manually generated two additional files:
 
 - ‘PETCT.txt’ is a tab-delimited file that follows the highlight.txt
   format. In this case, we replaced the coloring to reflect tissues
@@ -143,7 +143,7 @@ manually generated two addiotnal files:
   the input.txt file). This file will be plotted by Circos as a
   histogram track.
 
-3.  **Editing the configuration file and Circos plotting:**
+## C. Editing the configuration file and Circos plotting:**
 
 In each NHP folder, there is a ‘xxx.conf’ file that specifies all the
 tracks and parameters needed to generate the Circos plots in this study.
@@ -172,6 +172,6 @@ Finally, run the Circos program specifying the updated configuration
 file to be used. The output of this script will be two plots in
 different file formats: ‘circos.png‘ and ‘circos.svg’.
 
-**Example terminal code:**
+### Example terminal code:
 
-circos -conf NHP3416.conf
+`circos -conf NHP3416.conf`
