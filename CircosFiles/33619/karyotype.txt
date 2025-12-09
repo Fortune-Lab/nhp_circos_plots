@@ -1,0 +1,85 @@
+whitechr -  ACC   ACC   0   100   white
+
+chr -  RUL   RUL   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RLL   RLL   0   100   white
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_cluster_18   LLL_cluster_18   0   100   white
+chr -  LLL_cluster_21   LLL_cluster_21   0   100   white
+chr -  LLL_cluster_23_24   LLL_cluster_23_24   0   100   white
+chr -  LLL_gr4_5_6   LLL_gr4_5_6   0   100   white
+chr -  LLL_gr7   LLL_gr7   0   100   white
+chr -  LLL_8   LLL_8   0   100   white
+chr -  LLL_9   LLL_9   0   100   white
+chr -  LLL_gr12   LLL_gr12   0   100   white
+chr -  LLL_gr13   LLL_gr13   0   100   white
+chr -  LLL_gr14   LLL_gr14   0   100   white
+chr -  LLL_gr16   LLL_gr16   0   100   white
+#chr -  LLL_gr19   LLL_gr19   0   100   white
+#chr -  LLL_gr25   LLL_gr25   0   100   white
+chr -  LLL_15   LLL_15   0   100   white
+chr -  LLL_26   LLL_26   0   100   white
+chr -  LLL_27   LLL_27   0   100   white
+chr -  LLL_grA   LLL_grA   0   100   white
+chr -  LLL_grB   LLL_grB   0   100   white
+chr -  LLL_grC   LLL_grC   0   100   white
+chr -  LLL_grD   LLL_grD   0   100   white
+chr -  LLL_grE   LLL_grE   0   100   white
+#
+chr -  R_Carin_LN   R_Carin_LN   0   100   white
+chr -  R_Cran_HLN   R_Cran_HLN   0   100   white
+chr -  R_Subclav_LN   R_Subclav_LN   0   100   white
+
+chr -  L_carin_LN_gr   L_carin_LN_gr   0   100   white
+chr -  L_cran_HLN   L_cran_HLN   0   100   white
+chr -  L_Subclav_LN   L_Subclav_LN   0   100   white
+
+chr -  Pretrach_LN   Pretrach_LN   0   100   white
+#
+
+chr -  R_Ax_LN   R_Ax_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_Ax_LN   L_Ax_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+chr -  L_T8_Paracost_absc   L_T8_Paracost_absc   0   100   white
+chr -  L_T9_paracost_abs   L_T9_paracost_abs   0   100   white
+
+chr -  Diaphragm_gr1   Diaphragm_gr1   0   100   white
+chr -  Diaphragm_gr2   Diaphragm_gr2   0   100   white
+chr -  Diaphragm_gr3   Diaphragm_gr3   0   100   white
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Liver_gr_1   Liver_gr_1   0   100   white
+chr -  Liver_gr_3   Liver_gr_3   0   100   white
+chr -  Liver_gr2   Liver_gr2   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   L_carin_LN_gr   2   band1   0   17   chr2
+band   L_carin_LN_gr   5   band1   18   23   chr5
+band   L_carin_LN_gr   6   band1   24   32   chr6
+band   L_carin_LN_gr   7   band1   33   67   chr7
+band   L_carin_LN_gr   8   band1   68   100   chr8
+band   L_cran_HLN   2   band1   0   18   chr2
+band   L_cran_HLN   8   band1   19   100   chr8
+band   Liver   3   band1   0   100   chr3
+band   Liver_gr_1   3   band1   0   100   chr3
+band   LLL   7   band1   0   100   chr7
+band   LLL_15   8   band1   0   100   chr8
+band   LLL_26   4   band1   0   100   chr4
+band   LLL_27   8   band1   0   100   chr8
+band   LLL_8   6   band1   0   100   chr6
+band   LLL_9   2   band1   0   100   chr2
+band   LLL_cluster_18   1   band1   0   100   chr1
+band   LLL_cluster_21   7   band1   0   90   chr7
+band   LLL_cluster_21   8   band1   91   100   chr8
+band   LLL_cluster_23_24   7   band1   0   100   chr7
+band   Pretrach_LN   8   band1   0   100   chr8

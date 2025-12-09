@@ -1,0 +1,23 @@
+RUL_gr_1 	 0 	 20 	 LLL 	 0 	 3
+RUL_gr_1 	 0 	 20 	 RML 	 0 	 21
+RUL_gr_1 	 0 	 20	ACC 	 28 	 37 	 
+RUL_gr_1 	 0 	 20 	 RUL_gr_A 	 0 	 22
+RUL_gr_2 	 0 	 24	ACC 	 38 	 62 	 
+RUL_gr_2 	 0 	 24 	 Cent_carin_LN_gr 	 90 	 100
+RUL_gr_2 	 0 	 24 	 LLL 	 4 	 6
+RUL_gr_2 	 25 	 100 	 RML 	 22 	 100
+RUL_gr_2 	 25 	 100 	 RUL 	 20 	 64
+RUL_gr_2 	 25 	 100	LLL 	 22 	 58 	 
+RUL_gr_2 	 25 	 100 	 RUL_gr_A 	 23 	 100
+RUL 	 0 	 19 	 Cent_carin_LN_gr 	 61 	 66
+RUL 	 0 	 19	ACC 	 20 	 27 	 
+
+ACC 	 63 	 100 	 LLL 	 7 	 21
+ACC 	 0 	 19 	 R_cran_HLN_gr 	 0 	 9
+
+
+
+ACC_cluster_2 	 0 	 100 	 Cent_carin_LN_gr 	 0 	 52
+ACC_gr_3 	 0 	 100 	 Cent_carin_LN_gr 	 67 	 89
+RUL_gr_1 	 21 	 100 	 RUL 	 65 	 100
+RUL_gr_1 	 21 	 100	LLL 	 59 	 100 	 

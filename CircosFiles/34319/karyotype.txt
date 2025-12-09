@@ -1,0 +1,115 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_gr_A   ACC_gr_A   0   100   white
+
+chr -  RUL   RUL   0   100   white
+chr -  RUL_gr_A   RUL_gr_A   0   100   white
+
+chr -  RML   RML   0   100   white
+chr -  RML_gr_1_2_3   RML_gr_1_2_3   0   100   white
+chr -  RML_gr_A   RML_gr_A   0   100   white
+chr -  RML_gr_B   RML_gr_B   0   100   white
+
+chr -  RLL   RLL   0   100   white
+chr -  RLL_gr_1   RLL_gr_1   0   100   white
+chr -  RLL_gr_2_6   RLL_gr_2_6   0   100   white
+chr -  RLL_gr_7   RLL_gr_7   0   100   white
+chr -  RLL_gr_8_9   RLL_gr_8_9   0   100   white
+chr -  RLL_gr_10   RLL_gr_10   0   100   white
+chr -  RLL_gr_11   RLL_gr_11   0   100   white
+chr -  RLL_gr_12   RLL_gr_12   0   100   white
+chr -  RLL_gr_13   RLL_gr_13   0   100   white
+chr -  RLL_gr_14   RLL_gr_14   0   100   white
+chr -  RLL_gr_15   RLL_gr_15   0   100   white
+chr -  RLL_gr_A   RLL_gr_A   0   100   white
+chr -  RLL_gr_B   RLL_gr_B   0   100   white
+chr -  RLL_gr_C   RLL_gr_C   0   100   white
+chr -  RLL_gr_D   RLL_gr_D   0   100   white
+chr -  RLL_gr_E   RLL_gr_E   0   100   white
+chr -  RLL_gr_F   RLL_gr_F   0   100   white
+
+chr -  LUL   LUL   0   100   white
+chr -  LUL_gr_1   LUL_gr_1   0   100   white
+chr -  LUL_gr_2   LUL_gr_2   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_gr_3   LLL_gr_3   0   100   white
+chr -  LLL_gr_5   LLL_gr_5   0   100   white
+#
+chr -  R_cran_HLN_gr   R_cran_HLN_gr   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+chr -  RMS_Br_LN_gr   RMS_Br_LN_gr   0   100   white
+
+chr -  L_cran_HLN1   L_cran_HLN1   0   100   white
+chr -  L_cran_HLN2   L_cran_HLN2   0   100   white
+chr -  L_Subclav_LN   L_Subclav_LN   0   100   white
+chr -  LMS_Br_LN   LMS_Br_LN   0   100   white
+
+chr -  Cent_carin_LN_gr   Cent_carin_LN_gr   0   100   white
+chr -  Pretrach_LN_complex   Pretrach_LN_complex   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver_gr_1   Liver_gr_1   0   100   white
+chr -  Liver_gr_2   Liver_gr_2   0   100   white
+chr -  Liver_gr_3   Liver_gr_3   0   100   white
+chr -  Liver_w_gr   Liver_w_gr   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC   1   band1   0   100   chr1
+band   Cent_carin_LN_gr   1   band1   0   10   chr1
+band   Cent_carin_LN_gr   2   band1   11   15   chr2
+band   Cent_carin_LN_gr   3   band1   16   69   blue
+band   Cent_carin_LN_gr   4   band1   70   89   chr4
+band   Cent_carin_LN_gr   7   band1   90   100   chr7
+band   L_cran_HLN2   1   band1   0   48   chr1
+band   L_cran_HLN2   2   band1   49   65   chr2
+band   L_cran_HLN2   3   band1   66   81   blue
+band   L_cran_HLN2   4   band1   82   85   chr4
+band   L_cran_HLN2   7   band1   86   100   chr7
+band   Liver_gr_1   6   band1   0   100   chr6
+band   Liver_gr_3   6   band1   0   100   chr6
+band   Liver_w_gr   3   band1   0   100   blue
+band   LLL_gr_3   6   band1   0   100   chr6
+band   LML   1   band1   0   100   chr1
+band   LUL_gr_2   5   band1   0   100   chr5
+band   R_cran_HLN_gr   1   band1   0   44   chr1
+band   R_cran_HLN_gr   2   band1   45   49   chr2
+band   R_cran_HLN_gr   3   band1   50   75   blue
+band   R_cran_HLN_gr   6   band1   76   81   chr6
+band   R_cran_HLN_gr   7   band1   82   100   chr7
+band   R_subclav_LN   7   band1   0   100   chr7
+band   RLL   1   band1   0   100   chr1
+band   RLL_gr_1   1   band1   0   100   chr1
+band   RLL_gr_10   7   band1   0   100   chr7
+band   RLL_gr_11   7   band1   0   100   chr7
+band   RLL_gr_12   7   band1   0   100   chr7
+band   RLL_gr_13   1   band1   0   23   chr1
+band   RLL_gr_13   4   band1   24   100   chr4
+band   RLL_gr_14   4   band1   0   100   chr4
+band   RLL_gr_2_6   1   band1   0   60   chr1
+band   RLL_gr_2_6   2   band1   61   81   chr2
+band   RLL_gr_2_6   3   band1   82   100   blue
+band   RLL_gr_7   4   band1   0   100   chr4
+band   RLL_gr_8_9   2   band1   0   16   chr2
+band   RLL_gr_8_9   3   band1   17   100   blue
+band   RLL_gr_C   7   band1   0   100   chr7
+band   RLL_gr_D   7   band1   0   100   chr7
+band   RLL_gr_F   2   band1   0   100   chr2
+band   RML   1   band1   0   96   chr1
+band   RML   6   band1   97   100   chr6
+band   RML_gr_1_2_3   1   band1   0   100   chr1
+band   RML_gr_A   1   band1   0   100   chr1
+band   RML_gr_B   1   band1   0   100   chr1
+band   RMS_Br_LN_gr   1   band1   0   43   chr1
+band   RMS_Br_LN_gr   2   band1   44   55   chr2
+band   RMS_Br_LN_gr   3   band1   56   77   blue
+band   RMS_Br_LN_gr   4   band1   78   86   chr4
+band   RMS_Br_LN_gr   7   band1   87   100   chr7

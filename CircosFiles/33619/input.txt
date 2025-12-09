@@ -1,0 +1,51 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8
+null	33619	SIV_TB	ACC	Lung								
+null	33619	SIV_TB	Diaphragm_gr1	ExtraPulmonary								
+null	33619	SIV_TB	Diaphragm_gr2	ExtraPulmonary								
+null	33619	SIV_TB	Diaphragm_gr3	ExtraPulmonary								
+null	33619	SIV_TB	L_Ax_LN	ExtraPulmonary								
+null	33619	SIV_TB	L_carin_LN_gr	LymphNodes		17			6	9	35	33
+null	33619	SIV_TB	L_cran_HLN	LymphNodes		18						82
+null	33619	SIV_TB	L_ing_LN	ExtraPulmonary								
+null	33619	SIV_TB	L_Subclav_LN	LymphNodes								
+null	33619	SIV_TB	L_T8_Paracost_absc	ExtraPulmonary								
+null	33619	SIV_TB	L_T9_paracost_abs	ExtraPulmonary								
+null	33619	SIV_TB	Liver	ExtraPulmonary			100					
+null	33619	SIV_TB	Liver_gr_1	ExtraPulmonary			100					
+null	33619	SIV_TB	Liver_gr_3	ExtraPulmonary								
+null	33619	SIV_TB	Liver_gr2	ExtraPulmonary								
+null	33619	SIV_TB	LLL	Lung							100	
+null	33619	SIV_TB	LLL_15	Lung								100
+null	33619	SIV_TB	LLL_26	Lung				100				
+null	33619	SIV_TB	LLL_27	Lung								100
+null	33619	SIV_TB	LLL_8	Lung						100		
+null	33619	SIV_TB	LLL_9	Lung		100						
+null	33619	SIV_TB	LLL_cluster_18	Lung	100							
+null	33619	SIV_TB	LLL_cluster_21	Lung							90	10
+null	33619	SIV_TB	LLL_cluster_23_24	Lung							100	
+null	33619	SIV_TB	LLL_gr12	Lung								
+null	33619	SIV_TB	LLL_gr13	Lung								
+null	33619	SIV_TB	LLL_gr14	Lung								
+null	33619	SIV_TB	LLL_gr16	Lung								
+null	33619	SIV_TB	LLL_gr19	Lung								
+null	33619	SIV_TB	LLL_gr25	Lung								
+null	33619	SIV_TB	LLL_gr4_5_6	Lung								
+null	33619	SIV_TB	LLL_gr7	Lung								
+null	33619	SIV_TB	LLL_grA	Lung								
+null	33619	SIV_TB	LLL_grB	Lung								
+null	33619	SIV_TB	LLL_grC	Lung								
+null	33619	SIV_TB	LLL_grD	Lung								
+null	33619	SIV_TB	LLL_grE	Lung								
+null	33619	SIV_TB	LML	Lung								
+null	33619	SIV_TB	LUL	Lung								
+null	33619	SIV_TB	Mes_LN	ExtraPulmonary								
+null	33619	SIV_TB	Pretrach_LN	LymphNodes								100
+null	33619	SIV_TB	R_Ax_LN	ExtraPulmonary								
+null	33619	SIV_TB	R_Carin_LN	LymphNodes								
+null	33619	SIV_TB	R_Cran_HLN	LymphNodes								
+null	33619	SIV_TB	R_ing_LN	ExtraPulmonary								
+null	33619	SIV_TB	R_Subclav_LN	LymphNodes								
+null	33619	SIV_TB	RLL	Lung								
+null	33619	SIV_TB	RML	Lung								
+null	33619	SIV_TB	RUL	Lung								
+null	33619	SIV_TB	Spleen	ExtraPulmonary								

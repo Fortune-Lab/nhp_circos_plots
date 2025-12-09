@@ -1,0 +1,18 @@
+RLL_gr_5_6 	 0 	 100 	 LML 	 0 	 100
+RLL_gr_5_6 	 0 	 100 	 LUL 	 0 	 100
+RLL_gr_5_6 	 0 	 100 	 R_carin_LN_gr 	 67 	 100
+RLL_gr_5_6 	 0 	 100 	 R_cran_HLN_gr 	 68 	 100
+RLL_gr_5_6 	 0 	 100 	 RLL_gr_3 	 0 	 100
+RLL_gr_5_6 	 0 	 100	ACC 	 0 	 100 	 
+RLL_gr_5_6 	 0 	 100 	 RML 	 0 	 100
+RLL_gr_5_6 	 0 	 100 	 RML_gr_1 	 0 	 100
+RLL_gr_5_6 	 0 	 100 	 RMS_LN_gr 	 19 	 49
+
+RLL_cluster_15 	 0 	 100 	 RLL_gr_17 	 0 	 100
+RLL_gr_16 	 0 	 69 	 RMS_LN_gr 	 50 	 100
+RLL_gr_19 	 0 	 100 	 RMS_LN_gr 	 0 	 18
+
+RLL_gr_7 	 0 	 100 	 R_carin_LN_gr 	 0 	 66
+RLL_gr_7 	 0 	 100 	 R_cran_HLN_gr 	 0 	 67
+RLL_gr_7 	 0 	 100 	 RLL_gr_21 	 0 	 100
+RLL_gr_7 	 0 	 100	RLL_gr_1 	 0 	 100 	 

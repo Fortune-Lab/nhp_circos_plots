@@ -1,0 +1,107 @@
+chr -  ACC_gr_1   ACC_gr_1   0   100   white
+chr -  ACC_gr_2   ACC_gr_2   0   100   white
+chr -  ACC_gr_4   ACC_gr_4   0   100   white
+chr -  ACC_gr_5   ACC_gr_5   0   100   white
+chr -  ACC_gr_6   ACC_gr_6   0   100   white
+chr -  ACC_gr_7   ACC_gr_7   0   100   white
+chr -  ACC_gr_8   ACC_gr_8   0   100   white
+chr -  ACC_gr_9   ACC_gr_9   0   100   white
+chr -  ACC_gr_10   ACC_gr_10   0   100   white
+chr -  ACC_gr_11   ACC_gr_11   0   100   white
+chr -  ACC_gr_12   ACC_gr_12   0   100   white
+chr -  ACC_gr_13   ACC_gr_13   0   100   white
+chr -  ACC_gr_A   ACC_gr_A   0   100   white
+chr -  ACC_gr_B   ACC_gr_B   0   100   white
+chr -  ACC_gr_C   ACC_gr_C   0   100   white
+
+chr -  RUL   RUL   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RLL   RLL   0   100   white
+chr -  RLL_cluster_4   RLL_cluster_4   0   100   white
+chr -  RLL_gr_1   RLL_gr_1   0   100   white
+chr -  RLL_gr_2   RLL_gr_2   0   100   white
+chr -  RLL_gr_3   RLL_gr_3   0   100   white
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+#
+chr -  R_cran_HLN   R_cran_HLN   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+
+chr -  L_cran_HLN_1   L_cran_HLN_1   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+
+
+chr -  Cent_carin_LN_gr_1   Cent_carin_LN_gr_1   0   100   white
+chr -  Cent_carin_LN_gr_2   Cent_carin_LN_gr_2   0   100   white
+chr -  Paraesoph_LN_gr_1   Paraesoph_LN_gr_1   0   100   white
+chr -  Paraesoph_LN_gr_2   Paraesoph_LN_gr_2   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+chr -  R_T6_paracost_abs   R_T6_paracost_abs   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Liver_gr_1   Liver_gr_1   0   100   white
+chr -  Liver_gr_2   Liver_gr_2   0   100   white
+chr -  Liver_gr_3   Liver_gr_3   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC_gr_1   18   band1   0   100   chr18
+band   ACC_gr_10   14   band1   0   100   chr14
+band   ACC_gr_12   8   band1   0   12   chr8
+band   ACC_gr_12   10   band1   13   37   chr10
+band   ACC_gr_12   22   band1   38   59   chr22
+band   ACC_gr_12   23   band1   60   100   chr23
+band   ACC_gr_13   9   band1   0   95   chr9
+band   ACC_gr_13   14   band1   96   100   chr14
+band   ACC_gr_2   18   band1   0   100   chr18
+band   ACC_gr_4   12   band1   0   100   chr12
+band   ACC_gr_5   15   band1   0   59   chr15
+band   ACC_gr_5   16   band1   60   95   chr16
+band   ACC_gr_5   17   band1   96   100   purple
+band   ACC_gr_6   8   band1   0   100   chr8
+band   ACC_gr_9   9   band1   0   100   chr9
+band   ACC_gr_A   11   band1   0   95   chr11
+band   ACC_gr_A   18   band1   96   100   chr18
+band   ACC_gr_B   18   band1   0   100   chr18
+band   ACC_gr_C   14   band1   0   100   chr14
+band   Cent_carin_LN_gr_1   1   band1   0   20   chr1
+band   Cent_carin_LN_gr_1   2   band1   21   31   chr2
+band   Cent_carin_LN_gr_1   3   band1   32   37   red
+band   Cent_carin_LN_gr_1   9   band1   38   42   chr9
+band   Cent_carin_LN_gr_1   12   band1   43   73   chr12
+band   Cent_carin_LN_gr_1   14   band1   74   81   chr14
+band   Cent_carin_LN_gr_1   16   band1   82   89   chr16
+band   Cent_carin_LN_gr_1   18   band1   90   93   chr18
+band   Cent_carin_LN_gr_1   22   band1   94   100   chr22
+band   Cent_carin_LN_gr_2   9   band1   0   94   chr9
+band   Cent_carin_LN_gr_2   15   band1   95   100   chr15
+band   Liver_gr_1   7   band1   0   9   chr7
+band   Liver_gr_1   9   band1   10   82   chr9
+band   Liver_gr_1   13   band1   83   87   chr13
+band   Liver_gr_1   21   band1   88   100   chr21
+band   Liver_gr_2   14   band1   0   100   chr14
+band   Liver_gr_3   9   band1   0   100   chr9
+band   Paraesoph_LN_gr_1   3   band1   0   100   red
+band   Paraesoph_LN_gr_2   1   band1   0   59   chr1
+band   Paraesoph_LN_gr_2   2   band1   60   94   chr2
+band   Paraesoph_LN_gr_2   3   band1   95   100   red
+band   R_T6_paracost_abs   9   band1   0   100   chr9
+band   RLL_cluster_4   1   band1   0   66   chr1
+band   RLL_cluster_4   2   band1   67   88   chr2
+band   RLL_cluster_4   3   band1   89   100   red
+band   RLL_gr_1   4   band1   0   88   chr4
+band   RLL_gr_1   5   band1   89   100   green
+band   RLL_gr_2   1   band1   0   100   chr1
+band   RLL_gr_3   1   band1   0   100   chr1

@@ -1,0 +1,71 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_cluster_2   ACC_cluster_2   0   100   white
+chr -  ACC_gr_1   ACC_gr_1   0   100   white
+chr -  ACC_gr_3   ACC_gr_3   0   100   white
+
+chr -  RUL   RUL   0   100   white
+chr -  RUL_gr_1   RUL_gr_1   0   100   white
+chr -  RUL_gr_2   RUL_gr_2   0   100   white
+chr -  RUL_gr_A   RUL_gr_A   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RLL   RLL   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_gr_1   LLL_gr_1   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LUL   LUL   0   100   white
+#
+chr -  R_cran_HLN_gr   R_cran_HLN_gr   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+
+chr -  L_cran_HLN_1   L_cran_HLN_1   0   100   white
+chr -  L_cran_HLN_2   L_cran_HLN_2   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+
+chr -  Cent_carin_LN_gr   Cent_carin_LN_gr   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Liver   Liver   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC   1   band1   0   19   chr1
+band   ACC   4   band1   20   27   chr4
+band   ACC   5   band1   28   37   chr5
+band   ACC   9   band1   38   62   chr9
+band   ACC   10   band1   63   100   chr10
+band   ACC_cluster_2   2   band1   0   100   chr2
+band   ACC_gr_1   7   band1   0   100   chr7
+band   ACC_gr_3   8   band1   0   100   chr8
+band   Cent_carin_LN_gr   2   band1   0   52   chr2
+band   Cent_carin_LN_gr   3   band1   53   60   chr3
+band   Cent_carin_LN_gr   4   band1   61   66   chr4
+band   Cent_carin_LN_gr   8   band1   67   89   chr8
+band   Cent_carin_LN_gr   9   band1   90   100   chr9
+band   LLL   5   band1   0   3   chr5
+band   LLL   9   band1   4   6   chr9
+band   LLL   10   band1   7   21   chr10
+band   LLL   11   band1   22   58   blue
+band   LLL   12   band1   59   100   chr12
+band   R_cran_HLN_gr   1   band1   0   9   chr1
+band   R_cran_HLN_gr   6   band1   10   100   chr6
+band   RML   5   band1   0   21   chr5
+band   RML   11   band1   22   100   blue
+band   RUL   4   band1   0   19   chr4
+band   RUL   11   band1   20   64   blue
+band   RUL   12   band1   65   100   chr12
+band   RUL_gr_1   5   band1   0   20   chr5
+band   RUL_gr_1   12   band1   21   100   chr12
+band   RUL_gr_2   9   band1   0   24   chr9
+band   RUL_gr_2   11   band1   25   100   blue
+band   RUL_gr_A   5   band1   0   22   chr5
+band   RUL_gr_A   11   band1   23   100   blue

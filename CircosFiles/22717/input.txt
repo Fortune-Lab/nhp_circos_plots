@@ -1,0 +1,44 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7
+null	22717	TB_only	ACC	Lung							
+null	22717	TB_only	Inf_RMS_2_gr	LymphNodes	57	6			37		
+null	22717	TB_only	L_AX_LN	ExtraPulmonary							
+null	22717	TB_only	L_carin_LN	LymphNodes			43	57			
+null	22717	TB_only	L_cran_HLN_1	LymphNodes							
+null	22717	TB_only	L_cran_HLN_2	LymphNodes							
+null	22717	TB_only	L_ing_LN	ExtraPulmonary							
+null	22717	TB_only	L_subclav_LN	LymphNodes							
+null	22717	TB_only	Liver	ExtraPulmonary							
+null	22717	TB_only	Liver_gr_1	ExtraPulmonary			100				
+null	22717	TB_only	Liver_gr_2	ExtraPulmonary							
+null	22717	TB_only	LLL	Lung							
+null	22717	TB_only	LML	Lung							
+null	22717	TB_only	LUL	Lung							
+null	22717	TB_only	Mes_LN	ExtraPulmonary							
+null	22717	TB_only	R_AX_LN	ExtraPulmonary							
+null	22717	TB_only	R_carin_LN_gr	LymphNodes			94	6			
+null	22717	TB_only	R_cran_HLN_gr	LymphNodes			100				
+null	22717	TB_only	R_ing_LN	ExtraPulmonary							
+null	22717	TB_only	R_paratrach_LN_gr	LymphNodes			100				
+null	22717	TB_only	R_subclav_LN	LymphNodes							
+null	22717	TB_only	RLL	Lung							
+null	22717	TB_only	RLL_13_cluster	Lung					100		
+null	22717	TB_only	RLL_18_14_cluster	Lung				100			
+null	22717	TB_only	RLL_cluster_17	Lung							100
+null	22717	TB_only	RLL_cluster_7	Lung							
+null	22717	TB_only	RLL_gr_1	Lung							
+null	22717	TB_only	RLL_gr_10_12_cluster	Lung							
+null	22717	TB_only	RLL_gr_11	Lung			71			29	
+null	22717	TB_only	RLL_gr_15	Lung				100			
+null	22717	TB_only	RLL_gr_16	Lung							
+null	22717	TB_only	RLL_gr_2	Lung		100					
+null	22717	TB_only	RLL_gr_3	Lung							
+null	22717	TB_only	RLL_gr_4	Lung			100				
+null	22717	TB_only	RLL_gr_5	Lung	100						
+null	22717	TB_only	RLL_gr_A	Lung							
+null	22717	TB_only	RLL_gr_B	Lung					100		
+null	22717	TB_only	RLL_gr_C	Lung			100				
+null	22717	TB_only	RLL_gr_D	Lung							
+null	22717	TB_only	RML	Lung							
+null	22717	TB_only	RUL	Lung							
+null	22717	TB_only	Spleen	ExtraPulmonary							
+null	22717	TB_only	Sup_RMS_LN_1	LymphNodes							

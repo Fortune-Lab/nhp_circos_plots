@@ -1,0 +1,25 @@
+LLL_cluster_6_7_8 	 0 	 100 	 L_carin_LN_gr 	 0 	 12
+LLL_cluster_6_7_8 	 0 	 100 	 LLL 	 0 	 100
+LLL_cluster_6_7_8 	 0 	 100	Area_lateral_to_LLL_gr_1 	 0 	 100 	 
+LLL_cluster_6_7_8 	 0 	 100 	 LLL_gr_1 	 0 	 87
+LLL_cluster_6_7_8 	 0 	 100 	 LLL_gr_3 	 0 	 100
+LLL_cluster_6_7_8 	 0 	 100 	 RLL_gr_1 	 0 	 53
+LLL_cluster_6_7_8 	 0 	 100 	 RLL_gr_2 	 0 	 100
+LLL_gr_17 	 89 	 100 	 L_cran_HLN_2_gr 	 59 	 100
+LLL_gr_17 	 89 	 100	LLL_cluster_5 	 0 	 100 	 
+LLL_gr_17 	 89 	 100 	 LLL_gr_2 	 0 	 100
+LLL_gr_17 	 89 	 100 	 LLL_gr_4 	 0 	 90
+LLL_gr_20 	 0 	 92 	 L_carin_LN_gr 	 58 	 84
+LLL_gr_20 	 0 	 92	LLL_gr_19 	 84 	 100 	 
+LLL_gr_20 	 0 	 92 	 LLL_gr_9 	 0 	 100
+LLL_gr_20 	 0 	 92 	 LLL_gr_B 	 44 	 100
+
+
+LLL_gr_10 	 0 	 100 	 LLL_gr_4 	 91 	 100
+LLL_gr_11 	 0 	 100 	 L_cran_HLN_2_gr 	 34 	 58
+LLL_gr_11 	 0 	 100 	 LLL_gr_12 	 0 	 100
+LLL_gr_15 	 0 	 100 	 L_carin_LN_gr 	 85 	 100
+LLL_gr_17 	 0 	 88 	 L_carin_LN_gr 	 13 	 57
+LLL_gr_17 	 0 	 88 	 L_cran_HLN_2_gr 	 0 	 33
+LLL_gr_20 	 93 	 100 	 LLL_gr_21 	 81 	 100
+LLL_gr_21 	 0 	 80 	 LLL_gr_B 	 0 	 10

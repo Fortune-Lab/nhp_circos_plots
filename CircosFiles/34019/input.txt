@@ -1,0 +1,59 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10
+null	34019	SIV_TB	ACC_TB_pneum	Lung		33	16		21				12	18
+null	34019	SIV_TB	Diaphragm_gr_1	ExtraPulmonary	100									
+null	34019	SIV_TB	Diaphragm_gr_2	ExtraPulmonary	26				74					
+null	34019	SIV_TB	L_AX_LN	ExtraPulmonary		100								
+null	34019	SIV_TB	L_carin_LN_gr	LymphNodes		10	11	5	21				29	24
+null	34019	SIV_TB	L_cran_HLN_1	LymphNodes		11	9		24				31	25
+null	34019	SIV_TB	L_ing_LN	ExtraPulmonary									100	
+null	34019	SIV_TB	L_paratrach_LN_gr	LymphNodes		14	9		22	6			36	13
+null	34019	SIV_TB	L_subclav_LN_gr	LymphNodes	7	29	13		9				27	15
+null	34019	SIV_TB	Liver	ExtraPulmonary									85	15
+null	34019	SIV_TB	Liver_gr_1	ExtraPulmonary									100	
+null	34019	SIV_TB	Liver_gr_2	ExtraPulmonary				100						
+null	34019	SIV_TB	LLL	Lung		32			11					57
+null	34019	SIV_TB	LLL_1	Lung										100
+null	34019	SIV_TB	LLL_2	Lung										100
+null	34019	SIV_TB	LLL_3	Lung		100								
+null	34019	SIV_TB	LLL_4	Lung		100								
+null	34019	SIV_TB	LLL_5	Lung		100								
+null	34019	SIV_TB	LLL_6	Lung		100								
+null	34019	SIV_TB	LLL_7	Lung										100
+null	34019	SIV_TB	LLL_8	Lung										100
+null	34019	SIV_TB	LLL_A	Lung									100	
+null	34019	SIV_TB	LLL_area_B_TB_Pneum	Lung					17				9	74
+null	34019	SIV_TB	LLL_cluster_10	Lung	3	16			16				23	42
+null	34019	SIV_TB	LLL_cluster_11	Lung					26					74
+null	34019	SIV_TB	LLl_cluster_12	Lung		60							11	29
+null	34019	SIV_TB	LLL_cluster_9	Lung		62								38
+null	34019	SIV_TB	LML_TB_pneum	Lung		11			8				19	62
+null	34019	SIV_TB	LML_TB_pneum	Lung		19	14		17	8			16	26
+null	34019	SIV_TB	LUL	Lung		16	8		13	7			16	40
+null	34019	SIV_TB	LUL_1	Lung		24	14		13	6			17	26
+null	34019	SIV_TB	LUL_2	Lung		18			6				8	68
+null	34019	SIV_TB	Mes_LN	ExtraPulmonary			20	5	27					48
+null	34019	SIV_TB	R_AX_LN	ExtraPulmonary			4		96					
+null	34019	SIV_TB	R_carin_LN_gr	LymphNodes	32	5			9	10	5		12	27
+null	34019	SIV_TB	R_cran_HLN_gr	LymphNodes		5	9	8	12	27			23	16
+null	34019	SIV_TB	R_ing_LN	ExtraPulmonary			90						10	
+null	34019	SIV_TB	R_paracost_abs_T7	ExtraPulmonary	100									
+null	34019	SIV_TB	R_subclav_LN_gr	LymphNodes								19	81	
+null	34019	SIV_TB	RLL	Lung	6	17	10	5	12	12			17	21
+null	34019	SIV_TB	RLL_cluster_1	Lung		69								31
+null	34019	SIV_TB	RLL_cluster_2	Lung		66								34
+null	34019	SIV_TB	RLL_gr_3_TB_pneum	Lung	Lung	15	7	5	17	14			24	18
+null	34019	SIV_TB	RLL_gr_4	Lung		100								
+null	34019	SIV_TB	RLL_gr_6	Lung		63								37
+null	34019	SIV_TB	RML_pneum	Lung		17	8	7	17	5			21	25
+null	34019	SIV_TB	RUL	Lung	12	25							13	50
+null	34019	SIV_TB	RUL_7	Lung		64								36
+null	34019	SIV_TB	RUL_8	Lung		50							16	34
+null	34019	SIV_TB	RUL_cluster_A	Lung		100								
+null	34019	SIV_TB	RUL_gr_1	Lung	78				12				10	
+null	34019	SIV_TB	RUL_gr_2	Lung							100			
+null	34019	SIV_TB	RUL_gr_4	Lung		100								
+null	34019	SIV_TB	RUL_gr_5	Lung		100								
+null	34019	SIV_TB	Spleen_gr_1	ExtraPulmonary						100				
+null	34019	SIV_TB	Spleen_gr_2	ExtraPulmonary						100				
+null	34019	SIV_TB	Spleen_w_gr	ExtraPulmonary		60					17	23		
+null	34019	SIV_TB	T6_abs	ExtraPulmonary	100									

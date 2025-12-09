@@ -1,0 +1,48 @@
+RLL_gr_2_6 	 0 	 60 	 Cent_carin_LN_gr 	 0 	 10
+RLL_gr_2_6 	 0 	 60 	 RML_gr_1_2_3 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 RML_gr_A 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 RML_gr_B 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 RMS_Br_LN_gr 	 0 	 43
+RLL_gr_2_6 	 0 	 60 	 L_cran_HLN2 	 0 	 48
+RLL_gr_2_6 	 0 	 60 	 LML 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 R_cran_HLN_gr 	 0 	 44
+RLL_gr_2_6 	 0 	 60 	 RLL 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 RLL_gr_1 	 0 	 100
+RLL_gr_2_6 	 0 	 60 	 RLL_gr_13 	 0 	 23
+RLL_gr_2_6 	 0 	 60	ACC 	 0 	 100 	 
+RLL_gr_2_6 	 0 	 60 	 RML 	 0 	 96
+RLL_gr_7 	 0 	 100 	 Cent_carin_LN_gr 	 70 	 89
+RLL_gr_7 	 0 	 100 	 L_cran_HLN2 	 82 	 85
+RLL_gr_7 	 0 	 100 	 RLL_gr_14 	 0 	 100
+RLL_gr_7 	 0 	 100	RLL_gr_13 	 24 	 100 	 
+RLL_gr_7 	 0 	 100 	 RMS_Br_LN_gr 	 78 	 86
+RLL_gr_11 	 0 	 100 	 Cent_carin_LN_gr 	 90 	 100
+RLL_gr_11 	 0 	 100 	 L_cran_HLN2 	 86 	 100
+RLL_gr_11 	 0 	 100 	 R_cran_HLN_gr 	 82 	 100
+RLL_gr_11 	 0 	 100 	 R_subclav_LN 	 0 	 100
+RLL_gr_11 	 0 	 100	RLL_gr_10 	 0 	 100 	 
+RLL_gr_11 	 0 	 100 	 RLL_gr_12 	 0 	 100
+RLL_gr_11 	 0 	 100 	 RLL_gr_C 	 0 	 100
+RLL_gr_11 	 0 	 100 	 RLL_gr_D 	 0 	 100
+RLL_gr_11 	 0 	 100 	 RMS_Br_LN_gr 	 87 	 100
+
+LLL_gr_3 	 0 	 100 	 Liver_gr_1 	 0 	 100
+LLL_gr_3 	 0 	 100 	 Liver_gr_3 	 0 	 100
+LLL_gr_3 	 0 	 100 	 R_cran_HLN_gr 	 76 	 81
+LLL_gr_3 	 0 	 100 	 RML 	 97 	 100
+
+
+
+RLL_gr_8_9 	 0 	 16 	 Cent_carin_LN_gr 	 11 	 15
+RLL_gr_8_9 	 0 	 16 	 L_cran_HLN2 	 49 	 65
+RLL_gr_8_9 	 0 	 16 	 R_cran_HLN_gr 	 45 	 49
+RLL_gr_8_9 	 0 	 16	RLL_gr_2_6 	 61 	 81 	 
+RLL_gr_8_9 	 0 	 16 	 RLL_gr_F 	 0 	 100
+RLL_gr_8_9 	 0 	 16 	 RMS_Br_LN_gr 	 44 	 55
+
+RLL_gr_8_9 	 17 	 100 	 Cent_carin_LN_gr 	 16 	 69
+RLL_gr_8_9 	 17 	 100 	 L_cran_HLN2 	 66 	 81
+RLL_gr_8_9 	 17 	 100 	 Liver_w_gr 	 0 	 100
+RLL_gr_8_9 	 17 	 100 	 R_cran_HLN_gr 	 50 	 75
+RLL_gr_8_9 	 17 	 100	RLL_gr_2_6 	 82 	 100 	 
+RLL_gr_8_9 	 17 	 100 	 RMS_Br_LN_gr 	 56 	 77

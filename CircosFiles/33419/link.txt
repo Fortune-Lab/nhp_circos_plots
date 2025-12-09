@@ -1,0 +1,2 @@
+LLL_gr_3 	 0 	 100 	 L_cran_HLN2_gr 	 0 	 100
+ACC_gr_A 	 0 	 100 	 R_carin_LN 	 0 	 56

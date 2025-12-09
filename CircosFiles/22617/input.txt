@@ -1,0 +1,63 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10	a11	a12	a13	a14	a15
+null	22617	SIV_TB	ACC	Lung	70											30			
+null	22617	SIV_TB	ACC_gr_1	Lung															
+null	22617	SIV_TB	ACC_gr_2	Lung															
+null	22617	SIV_TB	ACC_gr_3	Lung															
+null	22617	SIV_TB	ACC_gr_A	Lung															
+null	22617	SIV_TB	Diaphragm_gr_1	ExtraPulmonary															
+null	22617	SIV_TB	Diaphragm_gr_2	ExtraPulmonary															
+null	22617	SIV_TB	Diaphragm_gr_3	ExtraPulmonary															
+null	22617	SIV_TB	L_AX_LN	ExtraPulmonary	100														
+null	22617	SIV_TB	L_carin_LN_gr	LymphNodes		11									11			78	
+null	22617	SIV_TB	L_cran_HLN_1	LymphNodes															
+null	22617	SIV_TB	L_cran_HLN_2	LymphNodes															
+null	22617	SIV_TB	L_cran_HLN_3	LymphNodes															
+null	22617	SIV_TB	L_ing_LN	ExtraPulmonary															
+null	22617	SIV_TB	L_subclav_LN	LymphNodes	100														
+null	22617	SIV_TB	Liver	ExtraPulmonary	86														14
+null	22617	SIV_TB	Liver_gr_1	ExtraPulmonary															
+null	22617	SIV_TB	Liver_gr_2	ExtraPulmonary															
+null	22617	SIV_TB	LLL	Lung	85											15			
+null	22617	SIV_TB	LLL_scar	Lung															
+null	22617	SIV_TB	LML	Lung	66											34			
+null	22617	SIV_TB	LMS_BR_LN_1	LymphNodes														100	
+null	22617	SIV_TB	LMS_BR_LN_2	LymphNodes	49	35													16
+null	22617	SIV_TB	LMS_Br_LN_3	LymphNodes															
+null	22617	SIV_TB	LUL	Lung												100			
+null	22617	SIV_TB	Medi_fascia_gr	ExtraPulmonary															
+null	22617	SIV_TB	Mes_LN	ExtraPulmonary															
+null	22617	SIV_TB	R_AX_LN	ExtraPulmonary															
+null	22617	SIV_TB	R_carin_LN_gr	LymphNodes	63	29													8
+null	22617	SIV_TB	R_cran_14_LN	LymphNodes		19	81												
+null	22617	SIV_TB	R_ing_LN	ExtraPulmonary															
+null	22617	SIV_TB	R_paratrach_LN	LymphNodes		41													59
+null	22617	SIV_TB	R_subclav_LN	LymphNodes														100	
+null	22617	SIV_TB	RLL	Lung	69											31			
+null	22617	SIV_TB	RLL_16_TB_pneum	Lung															
+null	22617	SIV_TB	RLL_cluster_11	Lung							79	21							
+null	22617	SIV_TB	RLL_cluster_13	Lung														32	68
+null	22617	SIV_TB	RLL_cluster_17	Lung													100		
+null	22617	SIV_TB	RLL_cluster_8	Lung		15	85												
+null	22617	SIV_TB	RLL_gr_1	Lung															
+null	22617	SIV_TB	RLL_gr_10	Lung					65	35									
+null	22617	SIV_TB	RLL_gr_12	Lung									51	49					
+null	22617	SIV_TB	RLL_gr_2	Lung		100													
+null	22617	SIV_TB	RLL_gr_7	Lung															
+null	22617	SIV_TB	RLL_gr_A	Lung															
+null	22617	SIV_TB	RLL_gr_B	Lung															
+null	22617	SIV_TB	RLL_gr_C	Lung															
+null	22617	SIV_TB	RLL_gr_D	Lung															
+null	22617	SIV_TB	RLL_gr_E	Lung															
+null	22617	SIV_TB	RLL_lat_chain_of_gr	Lung													60	22	18
+null	22617	SIV_TB	RLL_w_gr	Lung			21	10								49			20
+null	22617	SIV_TB	RML	Lung	100														
+null	22617	SIV_TB	RML_gr_1	Lung															
+null	22617	SIV_TB	RML_gr_A	Lung															
+null	22617	SIV_TB	RML_gr_B	Lung															
+null	22617	SIV_TB	RML_nodularity	Lung															
+null	22617	SIV_TB	RUL	Lung															
+null	22617	SIV_TB	RUL_gr_A	Lung														100	
+null	22617	SIV_TB	RUL_gr_B	Lung															
+null	22617	SIV_TB	Spleen	ExtraPulmonary	100														
+null	22617	SIV_TB	Spleen_gr_2	ExtraPulmonary															
+null	22617	SIV_TB	Spleen_gr_3	ExtraPulmonary															

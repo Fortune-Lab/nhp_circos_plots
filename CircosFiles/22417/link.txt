@@ -1,0 +1,13 @@
+RLL 	 79 	 100 	 R_cran_HLN_gr 	 81 	 100
+RLL_gr_1 	 0 	 77 	 R_cran_HLN_gr 	 0 	 8
+RLL_gr_1 	 0 	 77	RLL 	 0 	 78 	
+RLL_gr_12 	 0 	 100 	 RMS_LN_gr 	 19 	 100
+RLL_gr_13 	 0 	 100 	 R_carin_LN_gr 	 9 	 42
+RLL_gr_3 	 0 	 100 	 R_carin_LN_gr 	 91 	 100
+RLL_gr_4 	 0 	 100 	 R_cran_HLN_gr 	 62 	 80
+RLL_gr_5 	 0 	 100 	 R_carin_LN_gr 	 0 	 8
+RLL_gr_7_8 	 21 	 100 	 L_cran_HLN_ 	 0 	 100
+RLL_gr_7_8 	 21 	 100 	 R_carin_LN_gr 	 43 	 90
+RLL_gr_7_8 	 21 	 100 	 RMS_LN_gr 	 10 	 18
+RLL_gr_9 	 0 	 100 	 R_cran_HLN_gr 	 9 	 53
+RLL_gr_B 	 0 	 100 	 RMS_LN_gr 	 0 	 9

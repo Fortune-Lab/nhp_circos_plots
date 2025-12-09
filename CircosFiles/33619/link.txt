@@ -1,0 +1,15 @@
+LLL_cluster_23_24 	 0 	 100 	 L_carin_LN_gr 	 33 	 67
+LLL_cluster_23_24 	 0 	 100 	 LLL_cluster_21 	 0 	 90
+LLL_cluster_23_24 	 0 	 100	LLL 	 0 	 100 	 
+
+LLL_27 	 0 	 100 	 L_carin_LN_gr 	 68 	 100
+LLL_27 	 0 	 100 	 L_cran_HLN 	 19 	 100
+LLL_27 	 0 	 100	LLL_15 	 0 	 100 	 
+LLL_27 	 0 	 100 	 LLL_cluster_21 	 91 	 100
+LLL_27 	 0 	 100 	 Pretrach_LN 	 0 	 100
+
+LLL_8 	 0 	 100 	 L_carin_LN_gr 	 24 	 32
+LLL_9 	 0 	 100 	 L_carin_LN_gr 	 0 	 17
+LLL_9 	 0 	 100 	 L_cran_HLN 	 0 	 18
+
+Liver 	 0 	 100 	 Liver_gr_1 	 0 	 100

@@ -1,0 +1,105 @@
+chr -  ACC   ACC   0   100   white
+
+chr -  RUL   RUL   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RML_thick   RML_thick   0   100   white
+
+chr -  RLL   RLL   0   100   white
+
+chr -  LUL   LUL   0   100   white
+chr -  LUL_pneum   LUL_pneum   0   100   white
+
+chr -  LML_pneum_ant   LML_pneum_ant   0   100   white
+
+chr -  LLL_E_cluster   LLL_E_cluster   0   100   white
+chr -  LLL_gr_A   LLL_gr_A   0   100   white
+chr -  LLL_gr_B   LLL_gr_B   0   100   white
+chr -  LLL_gr_C   LLL_gr_C   0   100   white
+chr -  LLL_gr_D   LLL_gr_D   0   100   white
+chr -  LLL_snot   LLL_snot   0   100   white
+#
+chr -  R_carin_LN_gr   R_carin_LN_gr   0   100   white
+chr -  R_cran_HLN   R_cran_HLN   0   100   white
+chr -  R_paratrach_LN_2_gr   R_paratrach_LN_2_gr   0   100   white
+chr -  R_paratrach_LN_gr   R_paratrach_LN_gr   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+
+chr -  L_carin_LN_gr   L_carin_LN_gr   0   100   white
+chr -  L_cran_HLN_1_2_gr   L_cran_HLN_1_2_gr   0   100   white
+chr -  L_inf_sub_2   L_inf_sub_2   0   100   white
+chr -  L_paraesoph_LN_gr   L_paraesoph_LN_gr   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  T8_gr   T8_gr   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   L_carin_LN_gr   2   band1   0   10   orange
+band   L_carin_LN_gr   4   band1   11   69   chr4
+band   L_carin_LN_gr   11   band1   70   93   chr11
+band   L_carin_LN_gr   12   band1   94   100   chr12
+band   L_cran_HLN_1_2_gr   2   band1   0   52   orange
+band   L_cran_HLN_1_2_gr   3   band1   53   78   chr3
+band   L_cran_HLN_1_2_gr   10   band1   79   100   chr10
+band   L_paraesoph_LN_gr   3   band1   0   88   chr3
+band   L_paraesoph_LN_gr   11   band1   89   100   chr11
+band   LLL_E_cluster   6   band1   0   100   chr6
+band   LLL_gr_A   4   band1   0   100   chr4
+band   LLL_gr_B   9   band1   0   100   red
+band   LLL_gr_C   12   band1   0   100   chr12
+band   LML_pneum_ant   2   band1   0   23   orange
+band   LML_pneum_ant   4   band1   24   38   chr4
+band   LML_pneum_ant   10   band1   39   68   chr10
+band   LML_pneum_ant   13   band1   69   100   chr13
+band   LUL_pneum   1   band1   0   4   chr1
+band   LUL_pneum   2   band1   5   32   orange
+band   LUL_pneum   3   band1   33   46   chr3
+band   LUL_pneum   4   band1   47   66   chr4
+band   LUL_pneum   5   band1   67   71   chr5
+band   LUL_pneum   11   band1   72   82   chr11
+band   LUL_pneum   12   band1   83   95   chr12
+band   LUL_pneum   14   band1   96   100   chr14
+band   R_carin_LN_gr   1   band1   0   13   chr1
+band   R_carin_LN_gr   2   band1   14   20   orange
+band   R_carin_LN_gr   3   band1   21   25   chr3
+band   R_carin_LN_gr   4   band1   26   77   chr4
+band   R_carin_LN_gr   11   band1   78   83   chr11
+band   R_carin_LN_gr   14   band1   84   100   chr14
+band   R_paratrach_LN_2_gr   3   band1   0   22   chr3
+band   R_paratrach_LN_2_gr   11   band1   23   100   chr11
+band   R_paratrach_LN_gr   1   band1   0   3   chr1
+band   R_paratrach_LN_gr   2   band1   4   8   orange
+band   R_paratrach_LN_gr   3   band1   9   12   chr3
+band   R_paratrach_LN_gr   4   band1   13   57   blue
+band   R_paratrach_LN_gr   9   band1   58   62   red
+band   R_paratrach_LN_gr   12   band1   63   83   chr12
+band   R_paratrach_LN_gr   14   band1   84   100   chr14
+band   RML   1   band1   0   4   chr1
+band   RML   2   band1   5   8   orange
+band   RML   3   band1   9   12   chr3
+band   RML   4   band1   13   58   blue
+band   RML   9   band1   59   63   red
+band   RML   12   band1   64   84   chr12
+band   RML   14   band1   85   100   chr14
+band   LLL_snot   1   band1   0   5   chr1
+band   LLL_snot   2   band1   6   13   orange
+band   LLL_snot   3   band1   14   18   chr3
+band   LLL_snot   4   band1   19   50   blue
+band   LLL_snot   5   band1   51   53   chr5
+band   LLL_snot   7   band1   54   56   chr7
+band   LLL_snot   8   band1   57   58   chr8
+band   LLL_snot   10   band1   59   61   chr10
+band   LLL_snot   11   band1   62   83   chr11
+band   LLL_snot   13   band1   84   92   chr13
+band   LLL_snot   14   band1   93   100   chr14
+band   T8_gr   4   band1   0   100   blue

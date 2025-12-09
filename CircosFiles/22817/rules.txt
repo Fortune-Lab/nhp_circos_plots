@@ -1,0 +1,24 @@
+<rule>
+condition = on( RLL_gr_5 )
+condition = var(start1) >=  83
+condition = var(end1) <=  100
+color = green_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_9 )
+condition = var(start1) >=  55
+condition = var(end1) <=  100
+color = chr23_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( R_carin_LN_gr )
+condition = var(start1) >=  0
+condition = var(end1) <=  23
+color = chr20_a4
+radius2 = 1.0r
+</rule>
+#

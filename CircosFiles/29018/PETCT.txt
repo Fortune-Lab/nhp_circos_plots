@@ -1,0 +1,7 @@
+ACC_gr_1   0   100   fill_color=yellow
+ACC_cluster_2   0   100   fill_color=yellow
+ACC_gr_3   0   100   fill_color=yellow
+RUL_gr_1   0   100   fill_color=yellow
+RUL_gr_2   0   100   fill_color=yellow
+RUL_gr_4   0   100   fill_color=yellow
+LLL_gr_1   0   100   fill_color=yellow

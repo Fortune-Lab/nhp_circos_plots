@@ -1,0 +1,3 @@
+RLL_gr_5 	 83 	 100 	 R_carin_LN_gr 	 47 	 100
+RLL_gr_9 	 55 	 100 	 R_carin_LN_gr 	 24 	 46
+R_carin_LN_gr 	 0 	 23 	 RMS_LN_gr 	 0 	 100

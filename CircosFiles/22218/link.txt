@@ -1,0 +1,30 @@
+ACC_gr_13 	 96 	 100	ACC_gr_10 	 0 	 100 	 
+ACC_gr_13 	 96 	 100 	 ACC_gr_C 	 0 	 100
+ACC_gr_13 	 96 	 100 	 Cent_carin_LN_gr_1 	 74 	 81
+ACC_gr_13 	 96 	 100 	 Liver_gr_2 	 0 	 100
+
+
+ACC_gr_12 	 38 	 59 	 Cent_carin_LN_gr_1 	 94 	 100
+ACC_gr_12 	 0 	 12 	 ACC_gr_6 	 0 	 100
+ACC_gr_13 	 0 	 95 	 ACC_gr_9 	 0 	 100
+ACC_gr_13 	 0 	 95 	 Cent_carin_LN_gr_1 	 38 	 42
+ACC_gr_13 	 0 	 95 	 Cent_carin_LN_gr_2 	 0 	 94
+ACC_gr_13 	 0 	 95 	 Liver_gr_1 	 10 	 82
+ACC_gr_13 	 0 	 95 	 Liver_gr_3 	 0 	 100
+ACC_gr_13 	 0 	 95 	 R_T6_paracost_abs 	 0 	 100
+ACC_gr_1 	 0 	 100 	 ACC_gr_2 	 0 	 100
+ACC_gr_1 	 0 	 100 	 ACC_gr_A 	 96 	 100
+ACC_gr_1 	 0 	 100 	 ACC_gr_B 	 0 	 100
+ACC_gr_1 	 0 	 100 	 Cent_carin_LN_gr_1 	 90 	 93
+ACC_gr_4 	 0 	 100 	 Cent_carin_LN_gr_1 	 43 	 73
+ACC_gr_5 	 0 	 59 	 Cent_carin_LN_gr_2 	 95 	 100
+ACC_gr_5 	 60 	 95 	 Cent_carin_LN_gr_1 	 82 	 89
+RLL_cluster_4 	 0 	 66 	 Cent_carin_LN_gr_1 	 0 	 20
+RLL_cluster_4 	 0 	 66 	 Paraesoph_LN_gr_2 	 0 	 59
+RLL_cluster_4 	 0 	 66 	 RLL_gr_2 	 0 	 100
+RLL_cluster_4 	 0 	 66 	 RLL_gr_3 	 0 	 100
+RLL_cluster_4 	 67 	 88 	 Cent_carin_LN_gr_1 	 21 	 31
+RLL_cluster_4 	 67 	 88 	 Paraesoph_LN_gr_2 	 60 	 94
+RLL_cluster_4 	 89 	 100 	 Cent_carin_LN_gr_1 	 32 	 37
+RLL_cluster_4 	 89 	 100 	 Paraesoph_LN_gr_1 	 0 	 100
+RLL_cluster_4 	 89 	 100 	 Paraesoph_LN_gr_2 	 95 	 100

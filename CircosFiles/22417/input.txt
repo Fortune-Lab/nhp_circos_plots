@@ -1,0 +1,35 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10	a11	a12	a13	a14	a15	a16
+null	22417	TB_only	ACC	Lung																
+null	22417	TB_only	L_AX_LN	ExtraPulmonary																
+null	22417	TB_only	L_carin_LN	LymphNodes																
+null	22417	TB_only	L_cran_HLN_	LymphNodes							100									
+null	22417	TB_only	L_ing_LN	ExtraPulmonary																
+null	22417	TB_only	L_subclav_LN	LymphNodes																
+null	22417	TB_only	Liver	ExtraPulmonary																
+null	22417	TB_only	LLL	Lung																
+null	22417	TB_only	LML	Lung																
+null	22417	TB_only	LUL	Lung																
+null	22417	TB_only	Mes_LN	ExtraPulmonary																
+null	22417	TB_only	R_AX_LN	ExtraPulmonary																
+null	22417	TB_only	R_carin_LN_gr	LymphNodes	8					34	48						10			
+null	22417	TB_only	R_cran_HLN_gr	LymphNodes									8		45	8		19		20
+null	22417	TB_only	R_ing_LN	ExtraPulmonary																
+null	22417	TB_only	R_subclav_LN	LymphNodes																
+null	22417	TB_only	RLL	Lung									78							22
+null	22417	TB_only	RLL_gr_1	Lung									77	23						
+null	22417	TB_only	RLL_gr_11	Lung																
+null	22417	TB_only	RLL_gr_12	Lung															100	
+null	22417	TB_only	RLL_gr_13	Lung						100										
+null	22417	TB_only	RLL_gr_2	Lung								100								
+null	22417	TB_only	RLL_gr_3	Lung													100			
+null	22417	TB_only	RLL_gr_4	Lung														100		
+null	22417	TB_only	RLL_gr_5	Lung	100															
+null	22417	TB_only	RLL_gr_6	Lung			100													
+null	22417	TB_only	RLL_gr_7_8	Lung		20					80									
+null	22417	TB_only	RLL_gr_9	Lung											100					
+null	22417	TB_only	RLL_gr_A	Lung					100											
+null	22417	TB_only	RLL_gr_B	Lung				100												
+null	22417	TB_only	RML	Lung																
+null	22417	TB_only	RMS_LN_gr	LymphNodes				9			9								82	
+null	22417	TB_only	RUL	Lung																
+null	22417	TB_only	Spleen	ExtraPulmonary																

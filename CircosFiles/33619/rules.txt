@@ -1,0 +1,40 @@
+<rule>
+condition = on( LLL_15 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr8_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_8 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr6_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_9 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr7_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( Liver )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr3_a4
+radius2 = 1.0r
+</rule>
+#

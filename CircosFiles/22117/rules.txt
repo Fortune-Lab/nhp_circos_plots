@@ -1,0 +1,40 @@
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr3_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_1 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr9_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_2_3_TB_pneum )
+condition = var(start1) >=  0
+condition = var(end1) <=  6
+color = chr6_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  76
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  77
+condition = var(end1) <=  100
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#

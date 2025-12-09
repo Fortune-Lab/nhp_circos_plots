@@ -1,0 +1,112 @@
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  58
+condition = var(end1) <=  78
+color = chr18_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  0
+condition = var(end1) <=  57
+color = chr5_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_1 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr13_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_3 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr3_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_A )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_B )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr19_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_C )
+condition = var(start1) >=  95
+condition = var(end1) <=  100
+color = chr10_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC_gr_C )
+condition = var(start1) >=  0
+condition = var(end1) <=  70
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL )
+condition = var(start1) >=  69
+condition = var(end1) <=  92
+color = chr15_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL )
+condition = var(start1) >=  17
+condition = var(end1) <=  68
+color = chr4_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( L_carin_LN )
+condition = var(start1) >=  12
+condition = var(end1) <=  58
+color = chr8_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_12_TB_pneum )
+condition = var(start1) >=  55
+condition = var(end1) <=  82
+color = chr6_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_cluster_1 )
+condition = var(start1) >=  27
+condition = var(end1) <=  100
+color = chr11_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RML_gr_A )
+condition = var(start1) >=  50
+condition = var(end1) <=  100
+color = chr16_a4
+radius2 = 1.0r
+</rule>
+#

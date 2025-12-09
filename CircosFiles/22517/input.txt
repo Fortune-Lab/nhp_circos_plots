@@ -1,0 +1,56 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8
+null	22517	SIV_TB	ACC	Lung				100				
+null	22517	SIV_TB	ACC_cluster_2	Lung				100				
+null	22517	SIV_TB	ACC_gr_11	Lung				100				
+null	22517	SIV_TB	ACC_w_suspect_gr	Lung				100				
+null	22517	SIV_TB	Ant_pretrach_LN	LymphNodes								
+null	22517	SIV_TB	L_AX_LN	ExtraPulmonary								
+null	22517	SIV_TB	L_carinal_LN	LymphNodes								
+null	22517	SIV_TB	L_cran_HLN	LymphNodes			46	54				
+null	22517	SIV_TB	L_ing_LN	ExtraPulmonary								
+null	22517	SIV_TB	L_subclav_LN	LymphNodes								
+null	22517	SIV_TB	Liver	ExtraPulmonary								
+null	22517	SIV_TB	Liver_gr_1	ExtraPulmonary	100							
+null	22517	SIV_TB	Liver_gr_2	ExtraPulmonary								
+null	22517	SIV_TB	LLL_2_infiltrate	Lung								
+null	22517	SIV_TB	LLL_cluster_1	Lung				100				
+null	22517	SIV_TB	LLL_inf_1_3	Lung				100				
+null	22517	SIV_TB	LLL_sup_1_3	Lung				100				
+null	22517	SIV_TB	LML	Lung	30			48		22		
+null	22517	SIV_TB	LML_cluster_1_3	Lung				100				
+null	22517	SIV_TB	LML_cluster_2	Lung				100				
+null	22517	SIV_TB	LML_cluster_4	Lung				100				
+null	22517	SIV_TB	LML_w_gr	Lung				100				
+null	22517	SIV_TB	LUL	Lung				100				
+null	22517	SIV_TB	Mes_LN	ExtraPulmonary								
+null	22517	SIV_TB	R_AX_LN	ExtraPulmonary								
+null	22517	SIV_TB	R_carin_LN_gr	LymphNodes	13	4		69		8	5	
+null	22517	SIV_TB	R_cran_w_gr	LymphNodes				72		28		
+null	22517	SIV_TB	R_ing_LN	ExtraPulmonary								
+null	22517	SIV_TB	R_subclav_LN	LymphNodes								
+null	22517	SIV_TB	RLL	Lung				20			80	
+null	22517	SIV_TB	RLL_cluster_10_11_poss_cavity	Lung								
+null	22517	SIV_TB	RLL_cluster_12	Lung				75			25	
+null	22517	SIV_TB	RLL_cluster_13	Lung	15			29		55		
+null	22517	SIV_TB	RLL_cluster_14	Lung			15	85				
+null	22517	SIV_TB	RLL_cluster_18	Lung						93	7	
+null	22517	SIV_TB	RLL_cluster_2	Lung								100
+null	22517	SIV_TB	RLL_cluster_3	Lung				48			52	
+null	22517	SIV_TB	RLL_cluster_7	Lung							100	
+null	22517	SIV_TB	RLL_cluster_A	Lung				100				
+null	22517	SIV_TB	RLL_gr_1	Lung				34			66	
+null	22517	SIV_TB	RLL_gr_15	Lung					100			
+null	22517	SIV_TB	RLL_gr_16	Lung	77	23						
+null	22517	SIV_TB	RLL_gr_19	Lung	66	34						
+null	22517	SIV_TB	RLL_gr_4	Lung				100				
+null	22517	SIV_TB	RLL_gr_5	Lung				100				
+null	22517	SIV_TB	RLL_gr_8	Lung				41			59	
+null	22517	SIV_TB	RLL_gr_9A	Lung				65				35
+null	22517	SIV_TB	RLL_gr_9B	Lung				13				87
+null	22517	SIV_TB	RML	Lung							100	
+null	22517	SIV_TB	RML_cluster_1	Lung				100				
+null	22517	SIV_TB	RML_gr_1A	Lung						100		
+null	22517	SIV_TB	RMS_BR_LN_ant_gr	LymphNodes						83	17	
+null	22517	SIV_TB	RMS_Br_LN_post	LymphNodes								
+null	22517	SIV_TB	RUL	Lung				100				
+null	22517	SIV_TB	Spleen	ExtraPulmonary								

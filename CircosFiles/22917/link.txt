@@ -1,0 +1,53 @@
+LLL_gr_A 	 0 	 100 	 L_carin_LN_gr 	 11 	 69
+LLL_gr_A 	 0 	 100 	 LML_pneum_ant 	 24 	 38
+LLL_gr_A 	 0 	 100 	 LUL_pneum 	 47 	 66
+LLL_gr_A 	 0 	 100 	 R_carin_LN_gr 	 26 	 77
+LLL_gr_A 	 0 	 100 	 R_paratrach_LN_gr 	 13 	 57
+LLL_gr_A 	 0 	 100 	 RML 	 13 	 58
+LLL_gr_A 	 0 	 100 	 Snot 	 19 	 50
+LLL_gr_A 	 0 	 100 	 T8_gr 	 0 	 100
+LML_pneum_ant 	 39 	 68 	 L_cran_HLN_1_2_gr 	 79 	 100
+LML_pneum_ant 	 39 	 68 	 Snot 	 59 	 61
+LML_pneum_ant 	 69 	 100 	 Snot 	 84 	 92
+LML_pneum_ant 	 0 	 23 	 L_carin_LN_gr 	 0 	 10
+LML_pneum_ant 	 0 	 23 	 L_cran_HLN_1_2_gr 	 0 	 52
+LML_pneum_ant 	 0 	 23 	 LUL_pneum 	 5 	 32
+LML_pneum_ant 	 0 	 23 	 R_carin_LN_gr 	 14 	 20
+LML_pneum_ant 	 0 	 23 	 R_paratrach_LN_gr 	 4 	 8
+LML_pneum_ant 	 0 	 23 	 RML 	 5 	 8
+LML_pneum_ant 	 0 	 23 	 Snot 	 6 	 13
+LUL_pneum 	 96 	 100 	 R_carin_LN_gr 	 84 	 100
+LUL_pneum 	 96 	 100 	 R_paratrach_LN_gr 	 84 	 100
+LUL_pneum 	 96 	 100 	 RML 	 85 	 100
+LUL_pneum 	 96 	 100 	 Snot 	 93 	 100
+LUL_pneum 	 33 	 46 	 R_paratrach_LN_gr 	 9 	 12
+LUL_pneum 	 33 	 46 	 RML 	 9 	 12
+LUL_pneum 	 33 	 46 	 Snot 	 14 	 18
+LUL_pneum 	 33 	 46 	 L_cran_HLN_1_2_gr 	 53 	 78
+LUL_pneum 	 33 	 46 	 L_paraesoph_LN_gr 	 0 	 88
+LUL_pneum 	 33 	 46 	 R_carin_LN_gr 	 21 	 25
+LUL_pneum 	 33 	 46 	 R_paratrach_LN_2_gr 	 0 	 22
+
+
+
+LLL_gr_B 	 0 	 100 	 R_paratrach_LN_gr 	 58 	 62
+LLL_gr_B 	 0 	 100 	 RML 	 59 	 63
+
+
+LLL_gr_C 	 0 	 100 	 L_carin_LN_gr 	 94 	 100
+LLL_gr_C 	 0 	 100 	 LUL_pneum 	 83 	 95
+LLL_gr_C 	 0 	 100 	 R_paratrach_LN_gr 	 63 	 83
+LLL_gr_C 	 0 	 100 	 RML 	 64 	 84
+
+LUL_pneum 	 72 	 82 	 L_carin_LN_gr 	 70 	 93
+LUL_pneum 	 72 	 82 	 L_paraesoph_LN_gr 	 89 	 100
+LUL_pneum 	 72 	 82 	 R_carin_LN_gr 	 78 	 83
+LUL_pneum 	 72 	 82 	 R_paratrach_LN_2_gr 	 23 	 100
+LUL_pneum 	 72 	 82 	 Snot 	 62 	 83
+
+LUL_pneum 	 0 	 4 	 R_carin_LN_gr 	 0 	 13
+LUL_pneum 	 0 	 4 	 R_paratrach_LN_gr 	 0 	 3
+LUL_pneum 	 0 	 4 	 RML 	 0 	 4
+LUL_pneum 	 0 	 4 	 Snot 	 0 	 5
+
+LUL_pneum 	 67 	 71 	 Snot 	 51 	 53

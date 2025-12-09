@@ -1,0 +1,72 @@
+<rule>
+condition = on( Area_lateral_to_LLL_gr_1 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_cluster_5 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr11_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_10 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr12_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_11 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr3_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_15 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr15_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_17 )
+condition = var(start1) >=  0
+condition = var(end1) <=  88
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_19 )
+condition = var(start1) >=  84
+condition = var(end1) <=  100
+color = chr14_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_20 )
+condition = var(start1) >=  93
+condition = var(end1) <=  100
+color = chr16_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_21 )
+condition = var(start1) >=  0
+condition = var(end1) <=  80
+color = chr4_a4
+radius2 = 1.0r
+</rule>
+#

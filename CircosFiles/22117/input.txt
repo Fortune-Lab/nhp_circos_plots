@@ -1,0 +1,43 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10	a11
+null	22117	SIV_TB	ACC	Lung			100								
+null	22117	SIV_TB	ACC_gr_1	Lung			100								
+null	22117	SIV_TB	ACC_gr_A	Lung							100				
+null	22117	SIV_TB	ACC_gr_B	Lung			100								
+null	22117	SIV_TB	ACC_gr_C	Lung			100								
+null	22117	SIV_TB	Diaphragm_gr_1	ExtraPulmonary			45			55					
+null	22117	SIV_TB	Diaphragm_gr_2	ExtraPulmonary			100								
+null	22117	SIV_TB	L_AX_LN	ExtraPulmonary											
+null	22117	SIV_TB	L_carin_LN	LymphNodes											
+null	22117	SIV_TB	L_cran_HLN_1	LymphNodes											
+null	22117	SIV_TB	L_cran_HLN_2	LymphNodes											
+null	22117	SIV_TB	L_ing_LN	ExtraPulmonary											
+null	22117	SIV_TB	L_subclav_LN	LymphNodes											
+null	22117	SIV_TB	Liver	ExtraPulmonary											
+null	22117	SIV_TB	LLL	Lung											
+null	22117	SIV_TB	LLL_gr_1	Lung									100		
+null	22117	SIV_TB	LLL_gr_2	Lung									100		
+null	22117	SIV_TB	LML	Lung											
+null	22117	SIV_TB	LMS_LN	LymphNodes									100		
+null	22117	SIV_TB	LUL	Lung											
+null	22117	SIV_TB	Mes_LN	ExtraPulmonary											
+null	22117	SIV_TB	Pretrach_LN	LymphNodes									100		
+null	22117	SIV_TB	R_AX_LN	ExtraPulmonary											
+null	22117	SIV_TB	R_carin_LN_gr	LymphNodes	33	16	6	2		10			13	20	
+null	22117	SIV_TB	R_cran_HLN	LymphNodes											
+null	22117	SIV_TB	R_ing_LN	ExtraPulmonary											
+null	22117	SIV_TB	R_post_paracost_abs	ExtraPulmonary			100								
+null	22117	SIV_TB	R_subclav_LN_gr	LymphNodes			100								
+null	22117	SIV_TB	RLL	Lung	76	24									
+null	22117	SIV_TB	RLL_2_3_TB_pneum	Lung						6		94			
+null	22117	SIV_TB	RLL_4_TB_pneum	Lung						100					
+null	22117	SIV_TB	RLL_6_TB_pneum	Lung											
+null	22117	SIV_TB	RLL_7_TB_pneum	Lung					53						47
+null	22117	SIV_TB	RLL_8_9_10_11_TB_pneum	Lung		56							44		
+null	22117	SIV_TB	RLL_gr_1	Lung						100					
+null	22117	SIV_TB	RLL_gr_A	Lung			100								
+null	22117	SIV_TB	RLL_gr_B	Lung											
+null	22117	SIV_TB	RML	Lung		100									
+null	22117	SIV_TB	RT3_paracost_abs	ExtraPulmonary						100					
+null	22117	SIV_TB	RT4_paracost_abs	ExtraPulmonary			100								
+null	22117	SIV_TB	RUL	Lung		63	17			20					
+null	22117	SIV_TB	Spleen	ExtraPulmonary											

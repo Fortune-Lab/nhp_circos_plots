@@ -1,0 +1,39 @@
+RLL_w_gr 	 32 	 80 	 LLL 	 86 	 100
+RLL_w_gr 	 32 	 80 	 LML 	 67 	 100
+RLL_w_gr 	 32 	 80 	 LUL 	 0 	 100
+RLL_w_gr 	 32 	 80 	 RLL 	 70 	 100
+RLL_w_gr 	 32 	 80	ACC 	 71 	 100 	 
+
+
+RLL 	 0 	 69 	 L_AX_LN 	 0 	 100
+RLL 	 0 	 69 	 Spleen 	 0 	 100
+RLL 	 0 	 69 	 L_subclav_LN 	 0 	 100
+RLL 	 0 	 69 	 Liver 	 0 	 86
+RLL 	 0 	 69 	 LLL 	 0 	 85
+RLL 	 0 	 69 	 LML 	 0 	 66
+RLL 	 0 	 69 	 LMS_BR_LN_2 	 0 	 49
+RLL 	 0 	 69 	 R_carin_LN_gr 	 0 	 63
+RLL 	 0 	 69	ACC 	 0 	 70 	 
+RLL 	 0 	 69 	 RML 	 0 	 100
+
+
+RLL_cluster_13 	 0 	 32 	 L_carin_LN_gr 	 23 	 100
+RLL_cluster_13 	 0 	 32 	 LMS_BR_LN_1 	 0 	 100
+RLL_cluster_13 	 0 	 32 	 R_subclav_LN 	 0 	 100
+RLL_cluster_13 	 0 	 32 	 RLL_lat_chain_of_gr 	 61 	 82
+RLL_cluster_13 	 0 	 32 	 RUL_gr_A 	 0 	 100
+RLL_cluster_13 	 33 	 100 	 Liver 	 87 	 100
+RLL_cluster_13 	 33 	 100 	 LMS_BR_LN_2 	 85 	 100
+RLL_cluster_13 	 33 	 100 	 R_carin_LN_gr 	 93 	 100
+RLL_cluster_13 	 33 	 100 	 R_paratrach_LN 	 42 	 100
+RLL_cluster_13 	 33 	 100 	 RLL_lat_chain_of_gr 	 83 	 100
+RLL_cluster_13 	 33 	 100 	 RLL_w_gr 	 81 	 100
+RLL_cluster_17 	 0 	 100 	 RLL_lat_chain_of_gr 	 0 	 60
+RLL_cluster_8 	 0 	 15 	 L_carin_LN_gr 	 0 	 11
+RLL_cluster_8 	 0 	 15 	 LMS_BR_LN_2 	 50 	 84
+RLL_cluster_8 	 0 	 15 	 R_carin_LN_gr 	 64 	 92
+RLL_cluster_8 	 0 	 15 	 R_cran_14_LN 	 0 	 19
+RLL_cluster_8 	 0 	 15 	 R_paratrach_LN 	 0 	 41
+RLL_cluster_8 	 0 	 15 	 RLL_gr_2 	 0 	 100
+RLL_cluster_8 	 16 	 100 	 R_cran_14_LN 	 20 	 100
+RLL_cluster_8 	 16 	 100 	 RLL_w_gr 	 0 	 21

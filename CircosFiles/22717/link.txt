@@ -1,0 +1,17 @@
+RLL_gr_15 	 0 	 100 	 L_carin_LN 	 44 	 100
+RLL_gr_15 	 0 	 100 	 R_carin_LN_gr 	 95 	 100
+RLL_gr_15 	 0 	 100	RLL_18_14_cluster 	 0 	 100 	 
+
+
+
+RLL_13_cluster 	 0 	 100 	 Inf_RMS_2_gr 	 64 	 100
+RLL_13_cluster 	 0 	 100 	 RLL_gr_B 	 0 	 100
+RLL_gr_11 	 0 	 71 	 L_carin_LN 	 0 	 43
+RLL_gr_11 	 0 	 71 	 Liver_gr_1 	 0 	 100
+RLL_gr_11 	 0 	 71 	 R_carin_LN_gr 	 0 	 94
+RLL_gr_11 	 0 	 71 	 R_cran_HLN_gr 	 0 	 100
+RLL_gr_11 	 0 	 71 	 R_paratrach_LN_gr 	 0 	 100
+RLL_gr_11 	 0 	 71 	 RLL_gr_4 	 0 	 100
+RLL_gr_11 	 0 	 71 	 RLL_gr_C 	 0 	 100
+RLL_gr_2 	 0 	 100 	 Inf_RMS_2_gr 	 58 	 63
+RLL_gr_5 	 0 	 100 	 Inf_RMS_2_gr 	 0 	 57

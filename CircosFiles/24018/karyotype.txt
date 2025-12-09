@@ -1,0 +1,93 @@
+chr -  ACC   ACC   0   100   white
+
+chr -  RUL_RML   RUL_RML   0   100   white
+chr -  RUL_RML_thick   RUL_RML_thick   0   100   white
+#chr -  RUL_1   RUL_1   0   100   white
+chr -  RUL_2   RUL_2   0   100   white
+chr -  RUL_3_cluster   RUL_3_cluster   0   100   white
+chr -  RUL_4   RUL_4   0   100   white
+chr -  RUL_5   RUL_5   0   100   white
+chr -  RUL_6   RUL_6   0   100   white
+chr -  RUL_7   RUL_7   0   100   white
+chr -  RUL_8   RUL_8   0   100   white
+chr -  RUL_9   RUL_9   0   100   white
+chr -  RUL_10   RUL_10   0   100   white
+chr -  RUL_11   RUL_11   0   100   white
+chr -  RUL_12   RUL_12   0   100   white
+
+chr -  RLL   RLL   0   100   white
+chr -  RLL_2   RLL_2   0   100   white
+chr -  RLL_3   RLL_3   0   100   white
+chr -  RLL_A   RLL_A   0   100   white
+chr -  RLL_C   RLL_C   0   100   white
+chr -  RLL_D   RLL_D   0   100   white
+
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+chr -  LML_A   LML_A   0   100   white
+
+chr -  LLL   LLL   0   100   white
+#
+
+chr -  R_carin_LN   R_carin_LN   0   100   white
+chr -  R_cran_HLN_1_gr   R_cran_HLN_1_gr   0   100   white
+chr -  R_cran_HLN_2_gr   R_cran_HLN_2_gr   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+chr -  RLL_LN   RLL_LN   0   100   white
+
+chr -  L_carin   L_carin   0   100   white
+chr -  L_cran_HLN   L_cran_HLN   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+chr -  LMS   LMS   0   100   white
+chr -  LUL_LN   LUL_LN   0   100   white
+
+#
+
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Liver_gr_1   Liver_gr_1   0   100   white
+chr -  Liver_gr_2   Liver_gr_2   0   100   white
+chr -  Liver_gr_3   Liver_gr_3   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band	RLL_3   1   band1   0   100   chr1
+band	R_cran_HLN_1_gr   1   band1   0   36   chr1
+band	RLL_LN   1   band1   0   100   chr1
+band	R_carin_LN   1   band1   0   100   chr1
+band	ACC   1   band1   0   60   chr2
+#band	RUL_12   1   band1   0   100   chr2
+band	RLL_D   1   band1   0   100   chr2
+band	RUL_3_cluster   1   band1   0   100   chr3
+band	RUL_7   1   band1   0   20   chr3
+band	LML_A   1   band1   0   100   chr4
+band	RUL_6   1   band1   0   100   chr5
+band	R_cran_HLN_1_gr   1   band1   37   53   chr5
+band	RLL_C   1   band1   0   100   chr6
+band	RUL_12   1   band1   0   17   chr6
+band	RLL   1   band1   0   100   chr6
+band	RUL_2   1   band1   0   100   chr6
+band	RUL_RML_thick   1   band1   0   100   chr6
+band	RUL_12   1   band1   18   100   blue
+band	ACC   1   band1   61   100   blue
+band	LLL   1   band1   0   100   blue
+band	RUL_8   1   band1   0   100   blue
+band	RUL_9   1   band1   0   100   blue
+band	RUL_7   1   band1   21   100   blue
+band	R_cran_HLN_2_gr   1   band1   0   100   blue
+band	Liver_gr_3   1   band1   0   100   chr8
+band	RUL_10   1   band1   0   100   chr8
+band	RUL_11   1   band1   0   100   chr8
+band	R_cran_HLN_1_gr   1   band1   54   100   chr8
+band	RUL_5   1   band1   0   100   chr9
+band	RUL_4   1   band1   0   54   chr10
+band	RUL_4   1   band1   55   95   chr11
+band	RUL_4   1   band1   96   100   chr12

@@ -1,0 +1,53 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_gr_A   ACC_gr_A   0   100   white
+chr -  Access_gr1   Access_gr1   0   100   white
+chr -  Access_gr2   Access_gr2   0   100   white
+
+chr -  RUL   RUL   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RLL   RLL   0   100   white
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+chr -  LML_gr1   LML_gr1   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_gr1   LLL_gr1   0   100   white
+chr -  LLL_gr2   LLL_gr2   0   100   white
+chr -  LLL_gr_3   LLL_gr_3   0   100   white
+chr -  LLL_gr_5   LLL_gr_5   0   100   white
+chr -  LLL_gr7   LLL_gr7   0   100   white
+chr -  LLL_gr8   LLL_gr8   0   100   white
+chr -  LLL_gr10_13   LLL_gr10_13   0   100   white
+#
+chr -  R_carin_LN   R_carin_LN   0   100   white
+chr -  R_cran_HLN   R_cran_HLN   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+
+chr -  L_carin_LN   L_carin_LN   0   100   white
+chr -  L_cran_HLN1   L_cran_HLN1   0   100   white
+chr -  L_cran_HLN2_gr   L_cran_HLN2_gr   0   100   white
+chr -  L_paratrach_LN   L_paratrach_LN   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC_gr_A   2   band1   0   100   blue
+band   L_cran_HLN2_gr   1   band1   0   100   chr1
+band   LLL_gr_3   1   band1   0   100   chr1
+band   R_carin_LN   2   band1   0   56   blue
+band   R_carin_LN   2   band1   57   100   chr3
+band   LLL_gr_5   2   band1   0   13   chr4
+band   LLL_gr_5   2   band1   14   100   chr5

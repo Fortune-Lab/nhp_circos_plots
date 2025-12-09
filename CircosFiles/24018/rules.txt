@@ -1,0 +1,40 @@
+<rule>
+condition = on( LLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr6_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LML )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( L_cran_HLN )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_2 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr7_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr8_a4
+radius2 = 1.0r
+</rule>
+#

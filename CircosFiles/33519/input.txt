@@ -1,0 +1,77 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10	a11
+null	33519	SIV_ART_TB	ACC	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_1	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_3	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_4	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_5	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_6	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_7	Lung							100				
+null	33519	SIV_ART_TB	ACC_gr_A	Lung							100				
+null	33519	SIV_ART_TB	L_AX_LN	ExtraPulmonary											
+null	33519	SIV_ART_TB	L_carin_LN	LymphNodes			70				30				
+null	33519	SIV_ART_TB	L_cran_HLN1	LymphNodes							100				
+null	33519	SIV_ART_TB	L_Cran_HLN2	LymphNodes											
+null	33519	SIV_ART_TB	L_ing_LN	ExtraPulmonary											
+null	33519	SIV_ART_TB	L_Subclav_LN	LymphNodes											
+null	33519	SIV_ART_TB	Liver	ExtraPulmonary											
+null	33519	SIV_ART_TB	Liver_gr1	ExtraPulmonary											
+null	33519	SIV_ART_TB	Liver_gr2	ExtraPulmonary											
+null	33519	SIV_ART_TB	Liver_gr3	ExtraPulmonary											
+null	33519	SIV_ART_TB	LLL	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_1	Lung											
+null	33519	SIV_ART_TB	LLL_gr_2	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_3	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_5	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_A	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_C_cluster	Lung							100				
+null	33519	SIV_ART_TB	LLL_gr_D	Lung											
+null	33519	SIV_ART_TB	LLL_gr4	Lung											
+null	33519	SIV_ART_TB	LLL_gr6	Lung											
+null	33519	SIV_ART_TB	LLL_gr7	Lung											
+null	33519	SIV_ART_TB	LLL_grB	Lung											
+null	33519	SIV_ART_TB	LML	Lung							100				
+null	33519	SIV_ART_TB	LML_gr_1	Lung						3	97				
+null	33519	SIV_ART_TB	LML_gr_2	Lung											100
+null	33519	SIV_ART_TB	LML_gr_3	Lung				57			43				
+null	33519	SIV_ART_TB	LUL	Lung							100				
+null	33519	SIV_ART_TB	LUL_gr	Lung							100				
+null	33519	SIV_ART_TB	LUL_gr_2	Lung							100				
+null	33519	SIV_ART_TB	LUL_gr_3	Lung											
+null	33519	SIV_ART_TB	LUL_gr_4	Lung							100				
+null	33519	SIV_ART_TB	LUL_gr_5	Lung							100				
+null	33519	SIV_ART_TB	LUL_gr_6_cluster	Lung							76	24			
+null	33519	SIV_ART_TB	LUL_gr1	Lung											
+null	33519	SIV_ART_TB	LUL_grA	Lung											
+null	33519	SIV_ART_TB	Mes_LN	ExtraPulmonary											
+null	33519	SIV_ART_TB	Pretrach_LN	LymphNodes											
+null	33519	SIV_ART_TB	R_AX_LN	ExtraPulmonary											
+null	33519	SIV_ART_TB	R_carin_gr	LymphNodes	12	26					52			10	
+null	33519	SIV_ART_TB	R_cran_HLN_gr	LymphNodes	9	14			18		32	27			
+null	33519	SIV_ART_TB	R_ing_LN	ExtraPulmonary											
+null	33519	SIV_ART_TB	R_Subclav_LN	LymphNodes											
+null	33519	SIV_ART_TB	RLL	Lung	13						55	16	16		
+null	33519	SIV_ART_TB	RLL_gr	Lung		26					34	25		15	
+null	33519	SIV_ART_TB	RLL_gr_1_4	Lung			58				42				
+null	33519	SIV_ART_TB	RLL_gr_12	Lung									100		
+null	33519	SIV_ART_TB	RLL_gr_13	Lung	15						64	21			
+null	33519	SIV_ART_TB	RLL_gr_14	Lung									100		
+null	33519	SIV_ART_TB	RLL_gr_15	Lung					100						
+null	33519	SIV_ART_TB	RLL_gr_16	Lung									100		
+null	33519	SIV_ART_TB	RLL_gr_17	Lung										100	
+null	33519	SIV_ART_TB	RLL_gr_8_10	Lung				55			33	12			
+null	33519	SIV_ART_TB	RLL_gr_9	Lung										100	
+null	33519	SIV_ART_TB	RML	Lung							100				
+null	33519	SIV_ART_TB	RML_gr	Lung		56					44				
+null	33519	SIV_ART_TB	RML_gr_1	Lung							100				
+null	33519	SIV_ART_TB	RML_gr_2	Lung							100				
+null	33519	SIV_ART_TB	RML_gr_3	Lung							100				
+null	33519	SIV_ART_TB	RML_gr_4	Lung							100				
+null	33519	SIV_ART_TB	RML_gr_5	Lung							100				
+null	33519	SIV_ART_TB	RML_grA	Lung											
+null	33519	SIV_ART_TB	RUL	Lung							100				
+null	33519	SIV_ART_TB	RUL_cluster_1	Lung				13			87				
+null	33519	SIV_ART_TB	RUL_gr_2	Lung											
+null	33519	SIV_ART_TB	RUL_gr_3_cluster	Lung							62	38			
+null	33519	SIV_ART_TB	RUL_gr_4	Lung											
+null	33519	SIV_ART_TB	Spleen	ExtraPulmonary	100										

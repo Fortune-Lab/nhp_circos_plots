@@ -1,0 +1,61 @@
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 LLL 	 0 	 100
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100	ACC_gr_1 	 0 	 100 	 
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 LUL_gr_1 	 0 	 11
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 RLL_gr_1_2 	 0 	 16
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 RLL_gr_A 	 0 	 28
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 RUL_cluster_B 	 0 	 46
+LLL_sup_gr_6_7_9_TB_pneum 	 0 	 100 	 RUL_gr_2 	 0 	 12
+LUL_gr_1 	 12 	 31 	 L_T10_paravert_LN 	 0 	 100
+LUL_gr_1 	 12 	 31	LML 	 0 	 49 	 
+RLL_gr_12_13 	 39 	 59	LML 	 50 	 100 	 
+RLL_gr_12_13 	 39 	 59 	 RLL_gr_A 	 53 	 75
+RLL_gr_12_13 	 39 	 59 	 RMS_LN_gr 	 0 	 40
+RLL_gr_12_13 	 39 	 59 	 RUL_gr_3 	 0 	 13
+RLL_gr_12_13 	 60 	 85 	 L_cran_HLN_gr 	 64 	 100
+RLL_gr_12_13 	 60 	 85 	 RML 	 13 	 25
+RLL_gr_12_13 	 60 	 85 	 RUL_gr_3 	 14 	 23
+
+LLL_gr_14_TB_pneum 	 0 	 100 	 LUL_gr_1 	 32 	 67
+LLL_gr_14_TB_pneum 	 0 	 100 	 RLL_gr_1_2 	 17 	 69
+LLL_gr_14_TB_pneum 	 0 	 100 	 RLL_gr_A 	 29 	 52
+LLL_gr_2 	 0 	 100 	 L_cran_HLN_gr 	 0 	 63
+LLL_gr_2 	 0 	 100 	 LUL 	 0 	 100
+LLL_gr_2 	 0 	 100 	 RLL_gr_12_13 	 0 	 38
+LLL_gr_2 	 0 	 100 	 RML 	 0 	 12
+
+RLL_gr_6 	 0 	 100 	 LUL_gr_1 	 68 	 100
+RLL_gr_6 	 0 	 100	 R_cran_HLN 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL 	 0 	 77
+RLL_gr_6 	 0 	 100 	 RLL_cluster_A 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_1_2 	 70 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_10 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_12_13 	 86 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_15 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_16 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_18 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_19 	 0 	 78
+RLL_gr_6 	 0 	 100 	 RLL_gr_20 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_21 	 0 	 100
+RLL_gr_6 	 0 	 100	LLL_gr_A 	 0 	 100 	 
+RLL_gr_6 	 0 	 100 	 RLL_gr_8 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_9 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RLL_gr_A 	 76 	 100
+RLL_gr_6 	 0 	 100 	 RML 	 26 	 92
+RLL_gr_6 	 0 	 100 	 RML_gr_A 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RMS_LN_gr 	 41 	 100
+RLL_gr_6 	 0 	 100 	 RUL 	 0 	 89
+RLL_gr_6 	 0 	 100 	 RUL_cluster_1 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RUL_cluster_9 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RUL_cluster_B 	 47 	 100
+RLL_gr_6 	 0 	 100 	 RUL_gr_2 	 13 	 100
+RLL_gr_6 	 0 	 100 	 RUL_gr_3 	 24 	 100
+RLL_gr_6 	 0 	 100 	 RUL_gr_5 	 0 	 100
+RLL_gr_6 	 0 	 100 	 RUL_gr_8 	 0 	 100
+
+
+
+
+RLL 	 78 	 100 	 R_paratrach_LN_1_gr 	 0 	 100
+RLL 	 78 	 100 	 RLL_gr_19 	 79 	 100
+RLL 	 78 	 100 	 RML 	 93 	 100
+RLL 	 78 	 100 	 RUL 	 90 	 100

@@ -1,0 +1,80 @@
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  79
+condition = var(end1) <=  100
+color = chr16_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  78
+color = chr9_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_12 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr15_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_13 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr6_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_3 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr13_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_4 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr14_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_5 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_7_8 )
+condition = var(start1) >=  21
+condition = var(end1) <=  100
+color = chr7_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_9 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr11_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_B )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr4_a4
+radius2 = 1.0r
+</rule>
+#

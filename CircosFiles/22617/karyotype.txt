@@ -1,0 +1,127 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_gr_1   ACC_gr_1   0   100   white
+chr -  ACC_gr_2   ACC_gr_2   0   100   white
+chr -  ACC_gr_3   ACC_gr_3   0   100   white
+chr -  ACC_gr_A   ACC_gr_A   0   100   white
+
+chr -  RUL_gr_A   RUL_gr_A   0   100   white
+chr -  RUL_gr_B   RUL_gr_B   0   100   white
+
+chr -  RML   RML   0   100   white
+chr -  RML_gr_1   RML_gr_1   0   100   white
+chr -  RML_gr_A   RML_gr_A   0   100   white
+chr -  RML_gr_B   RML_gr_B   0   100   white
+chr -  RML_nodularity   RML_nodularity   0   100   white
+
+chr -  RLL   RLL   0   100   white
+chr -  RLL_cluster_11   RLL_cluster_11   0   100   white
+chr -  RLL_cluster_13   RLL_cluster_13   0   100   white
+chr -  RLL_cluster_17   RLL_cluster_17   0   100   white
+chr -  RLL_cluster_8   RLL_cluster_8   0   100   white
+chr -  RLL_gr_1   RLL_gr_1   0   100   white
+chr -  RLL_gr_2   RLL_gr_2   0   100   white
+chr -  RLL_gr_7   RLL_gr_7   0   100   white
+chr -  RLL_gr_10   RLL_gr_10   0   100   white
+chr -  RLL_gr_12   RLL_gr_12   0   100   white
+chr -  RLL_gr_A   RLL_gr_A   0   100   white
+chr -  RLL_gr_B   RLL_gr_B   0   100   white
+chr -  RLL_gr_C   RLL_gr_C   0   100   white
+chr -  RLL_gr_D   RLL_gr_D   0   100   white
+chr -  RLL_gr_E   RLL_gr_E   0   100   white
+#chr -  RLL_16_TB_pneum   RLL_16_TB_pneum   0   100   white
+chr -  RLL_lat_chain_of_gr   RLL_lat_chain_of_gr   0   100   white
+chr -  RLL_w_gr   RLL_w_gr   0   100   white
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_scar   LLL_scar   0   100   white
+
+#
+
+chr -  R_carin_LN_gr   R_carin_LN_gr   0   100   white
+chr -  R_cran_14_LN   R_cran_14_LN   0   100   white
+chr -  R_paratrach_LN   R_paratrach_LN   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+
+chr -  L_carin_LN_gr   L_carin_LN_gr   0   100   white
+chr -  L_cran_HLN_1   L_cran_HLN_1   0   100   white
+chr -  L_cran_HLN_2   L_cran_HLN_2   0   100   white
+chr -  L_cran_HLN_3   L_cran_HLN_3   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+chr -  LMS_BR_LN_1   LMS_BR_LN_1   0   100   white
+chr -  LMS_BR_LN_2   LMS_BR_LN_2   0   100   white
+chr -  LMS_Br_LN_3   LMS_Br_LN_3   0   100   white
+#
+
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Diaphragm_gr_1   Diaphragm_gr_1   0   100   white
+chr -  Diaphragm_gr_2   Diaphragm_gr_2   0   100   white
+chr -  Diaphragm_gr_3   Diaphragm_gr_3   0   100   white
+chr -  Medi_fascia_gr   Medi_fascia_gr   0   100   white
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Liver_gr_1   Liver_gr_1   0   100   white
+chr -  Liver_gr_2   Liver_gr_2   0   100   white
+chr -  Spleen   Spleen   0   100   white
+chr -  Spleen_gr_2   Spleen_gr_2   0   100   white
+chr -  Spleen_gr_3   Spleen_gr_3   0   100   white
+#
+#
+band   ACC   1   band1   0   70   chr1
+band   ACC   12   band1   71   100   chr12
+band   L_AX_LN   1   band1   0   100   chr1
+band   L_carin_LN_gr   2   band1   0   11   orange
+band   L_carin_LN_gr   11   band1   12   22   chr11
+band   L_carin_LN_gr   14   band1   23   100   chr14
+band   L_subclav_LN   1   band1   0   100   chr1
+band   Liver   1   band1   0   86   chr1
+band   Liver   15   band1   87   100   chr15
+band   LLL   1   band1   0   85   chr1
+band   LLL   12   band1   86   100   chr12
+band   LML   1   band1   0   66   chr1
+band   LML   12   band1   67   100   chr12
+band   LMS_BR_LN_1   14   band1   0   100   chr14
+band   LMS_BR_LN_2   1   band1   0   49   chr1
+band   LMS_BR_LN_2   2   band1   50   84   orange
+band   LMS_BR_LN_2   15   band1   85   100   chr15
+band   LUL   12   band1   0   100   chr12
+band   R_carin_LN_gr   1   band1   0   63   chr1
+band   R_carin_LN_gr   2   band1   64   92   orange
+band   R_carin_LN_gr   15   band1   93   100   chr15
+band   R_cran_14_LN   2   band1   0   19   orange
+band   R_cran_14_LN   3   band1   20   100   red
+band   R_paratrach_LN   2   band1   0   41   orange
+band   R_paratrach_LN   15   band1   42   100   chr15
+band   R_subclav_LN   14   band1   0   100   chr14
+band   RLL   1   band1   0   69   chr1
+band   RLL   12   band1   70   100   chr12
+band   RLL_cluster_11   7   band1   0   79   chr7
+band   RLL_cluster_11   8   band1   80   100   chr8
+band   RLL_cluster_13   14   band1   0   32   chr14
+band   RLL_cluster_13   15   band1   33   100   chr15
+band   RLL_cluster_17   13   band1   0   100   chr13
+band   RLL_cluster_8   2   band1   0   15   orange
+band   RLL_cluster_8   3   band1   16   100   red
+band   RLL_gr_10   5   band1   0   65   chr5
+band   RLL_gr_10   6   band1   66   100   chr6
+band   RLL_gr_12   9   band1   0   51   chr9
+band   RLL_gr_12   10   band1   52   100   chr10
+band   RLL_gr_2   2   band1   0   100   orange
+band   RLL_lat_chain_of_gr   13   band1   0   60   chr13
+band   RLL_lat_chain_of_gr   14   band1   61   82   chr14
+band   RLL_lat_chain_of_gr   15   band1   83   100   chr15
+band   RLL_w_gr   3   band1   0   21   red
+band   RLL_w_gr   4   band1   22   31   chr4
+band   RLL_w_gr   12   band1   32   80   chr12
+band   RLL_w_gr   15   band1   81   100   chr15
+band   RML   1   band1   0   100   chr1
+band   RUL_gr_A   14   band1   0   100   chr14
+band   Spleen   1   band1   0   100   chr1

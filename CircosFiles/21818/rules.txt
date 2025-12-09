@@ -1,0 +1,120 @@
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  39
+condition = var(end1) <=  78
+color = chr14_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  79
+condition = var(end1) <=  100
+color = chr15_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( ACC )
+condition = var(start1) >=  0
+condition = var(end1) <=  38
+color = chr2_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr20_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_17_19 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr11_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_2_7_8 )
+condition = var(start1) >=  24
+condition = var(end1) <=  67
+color = chr18_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LLL_gr_2_7_8 )
+condition = var(start1) >=  68
+condition = var(end1) <=  100
+color = chr19_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( LML )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr12_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL )
+condition = var(start1) >=  17
+condition = var(end1) <=  27
+color = chr10_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_10 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr21_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_6_doublet )
+condition = var(start1) >=  0
+condition = var(end1) <=  24
+color = chr5_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RLL_gr_7 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr3_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RML )
+condition = var(start1) >=  0
+condition = var(end1) <=  77
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( RUL_cluster_1 )
+condition = var(start1) >=  40
+condition = var(end1) <=  100
+color = chr16_a4
+radius2 = 1.0r
+</rule>
+#
+<rule>
+condition = on( R_carin_LN_gr )
+condition = var(start1) >=  45
+condition = var(end1) <=  52
+color = chr13_a4
+radius2 = 1.0r
+</rule>
+#

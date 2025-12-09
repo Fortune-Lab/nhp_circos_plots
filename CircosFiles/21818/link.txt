@@ -1,0 +1,92 @@
+RLL_gr_12_TB_pneum 	 68 	 80	ACC 	 39 	 78 
+RLL_gr_12_TB_pneum 	 68 	 80	 L_carin_LN_gr 	 38 	 85
+RLL_gr_12_TB_pneum 	 68 	 80 	 Liver_gr_1 	 0 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 LLL_gr_A 	 0 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 LMS_BR_LN 	 0 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 R_carin_LN_gr 	 53 	 69
+RLL_gr_12_TB_pneum 	 68 	 80 	 R_cran_HLN_gr 	 77 	 81 
+RLL_gr_12_TB_pneum 	 68 	 80 	 RML_cluster_1 	 68 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 RUL_cluster_20 	 87 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 RUL_gr_10 	 0 	 100
+RLL_gr_12_TB_pneum 	 68 	 80 	 RUL_gr_4 	 0 	 100
+RLL_gr_12_TB_pneum 	 68 	 80	 Spleen 	 0 	 100
+RLL_gr_6_doublet 	 25 	 100	ACC 	 79 	 100
+RLL_gr_6_doublet 	 25 	 100 	 L_carin_LN_gr 	 86 	 96
+RLL_gr_6_doublet 	 25 	 100 	 L_cran_HLN_gr 	 53 	 71
+RLL_gr_6_doublet 	 25 	 100 	 LLL_gr_15 	 0 	 100
+RLL_gr_6_doublet 	 25 	 100 	 LML_gr_1 	 0 	 100
+RLL_gr_6_doublet 	 25 	 100 	 R_carin_LN_gr 	 70 	 89
+RLL_gr_6_doublet 	 25 	 100 	 R_cran_HLN_gr 	 82 	 88 
+RLL_gr_6_doublet 	 25 	 100 	 RML_gr_2 	 0 	 100
+RLL_gr_12_TB_pneum 	 0 	 29	ACC 	 0 	 38
+RLL_gr_12_TB_pneum 	 0 	 29 	 L_carin_LN_gr 	 32 	 37
+RLL_gr_12_TB_pneum 	 0 	 29 	 Spleen_gr_1 	 0 	 100
+RLL_gr_12_TB_pneum 	 0 	 29	 Liver_gr_2 	 0 	 100
+RLL_gr_12_TB_pneum 	 0 	 29 	 LLL_gr_2_7_8 	 0 	 23
+RLL_gr_12_TB_pneum 	 0 	 29 	 R_carin_LN_gr 	 11 	 26
+RLL_gr_12_TB_pneum 	 0 	 29	 R_cran_HLN_gr 	 22 	 40
+RLL_gr_12_TB_pneum 	 0 	 29 	 RLL 	 0 	 16
+RLL_gr_12_TB_pneum 	 0 	 29 	 RUL_cluster_20 	 0 	 33
+RLL_gr_12_TB_pneum 	 0 	 29 	 RUL_cluster_A 	 0 	 100
+RUL_cluster_1 	 0 	 39	RML 	 0 	 77 
+RUL_cluster_1 	 0 	 39 	 L_carin_LN_gr 	 0 	 31
+RUL_cluster_1 	 0 	 39 	 L_cran_HLN_gr 	 0 	 37
+RUL_cluster_1 	 0 	 39 	 Liver_gr_3 	 0 	 28
+RUL_cluster_1 	 0 	 39 	 R_carin_LN_gr 	 0 	 10
+RUL_cluster_1 	 0 	 39 	 R_cran_HLN_gr 	 0 	 21
+RUL_cluster_1 	 0 	 39	 RML_cluster_1 	 0 	 22
+RUL_cluster_1 	 0 	 39 	 RML_gr_3 	 0 	 17
+RLL_gr_8 	 0 	 100	RLL_gr_6_doublet 	 0 	 24 	 
+RLL_gr_8 	 0 	 100 	 RLL_gr_B 	 0 	 100	 
+RLL_gr_12_TB_pneum 	 48 	 62	LLL_gr_17_19 	 0 	 100 	 
+RLL_gr_12_TB_pneum 	 48 	 62 	 RML 	 78 	 100
+RLL_gr_12_TB_pneum 	 48 	 62 	 RML_cluster_1 	 38 	 67
+RLL_gr_12_TB_pneum 	 48 	 62 	 RML_gr_5 	 0 	 100
+RLL_gr_12_TB_pneum 	 48 	 62 	 RUL 	 12 	 66
+RLL_gr_12_TB_pneum 	 48 	 62 	 RUL_cluster_20 	 41 	 86
+RLL_gr_12_TB_pneum 	 48 	 62 	 RUL_cluster_9 	 0 	 32
+RLL_gr_12_TB_pneum 	 48 	 62 	 RUL_gr_15 	 0 	 100
+RLL_gr_12_TB_pneum 	 48 	 62 	 L_cran_HLN_gr 	 44 	 52
+RLL_gr_12_TB_pneum 	 48 	 62 	 LUL_cluster_2 	 0 	 65
+RLL_gr_12_TB_pneum 	 48 	 62	 R_carin_LN_gr 	 27 	 37
+RLL_gr_12_TB_pneum 	 48 	 62 	 R_cran_HLN_gr 	 50 	 67
+RLL_gr_12_TB_pneum 	 48 	 62 	 RLL 	 28 	 82
+RLL_gr_12_TB_pneum 	 48 	 62 	 RLL_cluster_1 	 0 	 100
+RLL_gr_12_TB_pneum 	 63 	 67 	 LUL_cluster_2 	 66 	 100
+RLL_gr_12_TB_pneum 	 63 	 67 	 R_carin_LN_gr 	 38 	 44
+RLL_gr_12_TB_pneum 	 63 	 67 	 R_cran_HLN_gr 	 68 	 76
+RLL_gr_12_TB_pneum 	 63 	 67 	 RLL 	 83 	 88
+RLL_gr_12_TB_pneum 	 63 	 67	LML 	 0 	 100 	 
+RLL_gr_12_TB_pneum 	 63 	 67 	 RML_gr_3 	 18 	 100
+RLL_gr_12_TB_pneum 	 63 	 67 	 RUL 	 67 	 100
+RLL_gr_12_TB_pneum 	 63 	 67 	 RUL_gr_13_14 	 0 	 100
+
+RLL_cluster_3 	 0 	 100 	 L_carin_LN_gr 	 97 	 100
+RLL_cluster_3 	 0 	 100 	 L_cran_HLN_gr 	 96 	 100
+RLL_cluster_3 	 0 	 100 	 R_carin_LN_gr 	 90 	 100
+RLL_cluster_3 	 0 	 100 	 RLL 	 89 	 100
+RLL_cluster_3 	 0 	 100 	 RUL_cluster_9 	 33 	 100
+RLL_cluster_3	0	100	LLL	0	100
+
+
+
+LLL_gr_2_7_8 	 24 	 67 	 R_cran_HLN_gr 	 98 	 100
+LLL_gr_2_7_8 	 68 	 100 	 L_cran_HLN_gr 	 72 	 95
+
+RLL 	 17 	 27 	 RUL_cluster_20 	 34 	 40
+RLL_gr_10 	 0 	 100 	 RLL_gr_12_TB_pneum 	 81 	 97
+
+
+
+
+RLL_gr_7 	 0 	 100 	 Diaphragm_gr_2 	 0 	 100
+RLL_gr_7 	 0 	 100 	 Diaphragm_gr_3 	 0 	 100
+RLL_gr_7 	 0 	 100 	 L_cran_HLN_gr 	 38 	 43
+RLL_gr_7 	 0 	 100 	 R_ant_T6_paracost_abs 	 0 	 100
+RLL_gr_7 	 0 	 100 	 R_cran_HLN_gr 	 41 	 47
+RLL_gr_7 	 0 	 100 	 RLL_gr_A 	 0 	 100
+RLL_gr_7 	 0 	 100 	 RML_cluster_1 	 23 	 37
+RLL_gr_7 	 0 	 100 	 RUL 	 0 	 11
+
+RUL_cluster_1 	 40 	 100 	 R_cran_HLN_gr 	 89 	 93
+R_carin_LN_gr 	 45 	 52 	 Liver_gr_3 	 29 	 100

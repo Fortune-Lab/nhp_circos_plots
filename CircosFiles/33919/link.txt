@@ -1,0 +1,26 @@
+LLL_gr_28 	 0 	 100 	 L_carin_LN_gr 	 0 	 15
+LLL_gr_28 	 0 	 100 	 L_cran_HLN2_gr 	 0 	 27
+LLL_gr_28 	 0 	 100 	 LLL_gr_1_2_7 	 0 	 100
+LLL_gr_28 	 0 	 100 	 LLL_gr_15 	 0 	 100
+LLL_gr_28 	 0 	 100 	 LLL_gr_19 	 0 	 83
+LLL_gr_28 	 0 	 100 	 LLL_gr_24_25 	 0 	 70
+LLL_gr_28 	 0 	 100 	 LLL_gr_26_area 	 0 	 100
+LLL_gr_28 	 0 	 100	LLL 	 0 	 100 	 
+LLL_gr_28 	 0 	 100 	 LLL_gr_3_4 	 0 	 100
+LLL_gr_28 	 0 	 100 	 LLL_gr_5_6 	 0 	 75
+LLL_gr_28 	 0 	 100 	 LLL_gr_9_area 	 0 	 95
+LLL_gr_28 	 0 	 100 	 LML 	 0 	 100
+LLL_gr_30 	 0 	 100 	 L_carin_LN_gr 	 40 	 45
+LLL_gr_30 	 0 	 100	LLL_gr_19 	 84 	 100 	 
+LLL_gr_30 	 0 	 100 	 LLL_gr_5_6 	 76 	 100
+
+LLL_gr_23 	 0 	 100 	 LLL_gr_24_25 	 71 	 100
+LLL_gr_27 	 0 	 100 	 L_carin_LN_gr 	 46 	 64
+LLL_gr_32 	 0 	 100 	 L_carin_LN_gr 	 94 	 100
+LLL_gr_32 	 0 	 100 	 L_cran_HLN2_gr 	 77 	 89
+LLL_gr_33 	 0 	 100 	 L_carin_LN_gr 	 16 	 39
+LLL_gr_33 	 0 	 100 	 L_cran_HLN2_gr 	 28 	 46
+LLL_gr_33 	 0 	 100 	 LLL_gr_9_area 	 96 	 100
+LLL_gr_35 	 0 	 100 	 L_carin_LN_gr 	 65 	 93
+LLL_gr_35 	 0 	 100 	 L_cran_HLN2_gr 	 47 	 76
+LLL_gr_35 	 0 	 100 	 LLL_gr_A 	 0 	 100

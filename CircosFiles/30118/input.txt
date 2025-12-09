@@ -1,0 +1,46 @@
+sample_id	monkey_id	group	sample	designation	a1	a2	a3	a4	a5	a6	a7	a8	a9	a10	a11	a12	a13	a14	a15	a16	a17	a18	a19
+null	30118	TB_only	ACC	Lung																			
+null	30118	TB_only	Area_lateral_to_LLL_gr_1	Lung	100																		
+null	30118	TB_only	L_AX_LN	ExtraPulmonary																			
+null	30118	TB_only	L_carin_LN_gr	LymphNodes	12	45												27	16				
+null	30118	TB_only	L_cran_HLN_1	LymphNodes																			
+null	30118	TB_only	L_cran_HLN_2_gr	LymphNodes		33	25								42								
+null	30118	TB_only	L_ing_LN	ExtraPulmonary																			
+null	30118	TB_only	L_subclav_LN	LymphNodes																			
+null	30118	TB_only	Liver	ExtraPulmonary																			
+null	30118	TB_only	LLL	Lung	100																		
+null	30118	TB_only	LLL_cluster_5	Lung											100								
+null	30118	TB_only	LLL_cluster_6_7_8	Lung	100																		
+null	30118	TB_only	LLL_gr_1	Lung	87							7											6
+null	30118	TB_only	LLL_gr_10	Lung												100							
+null	30118	TB_only	LLL_gr_11	Lung			100																
+null	30118	TB_only	LLL_gr_12	Lung			100																
+null	30118	TB_only	LLL_gr_14	Lung									100										
+null	30118	TB_only	LLL_gr_15	Lung															100				
+null	30118	TB_only	LLL_gr_16	Lung										100									
+null	30118	TB_only	LLL_gr_17	Lung		88									12								
+null	30118	TB_only	LLL_gr_18	Lung							44											56	
+null	30118	TB_only	LLL_gr_19	Lung													83	17					
+null	30118	TB_only	LLL_gr_2	Lung											100								
+null	30118	TB_only	LLL_gr_20	Lung														92		8			
+null	30118	TB_only	LLL_gr_21	Lung				80												20			
+null	30118	TB_only	LLL_gr_22	Lung																			
+null	30118	TB_only	LLL_gr_3	Lung	100																		
+null	30118	TB_only	LLL_gr_4	Lung											90	10							
+null	30118	TB_only	LLL_gr_9	Lung														100					
+null	30118	TB_only	LLL_gr_A	Lung																	100		
+null	30118	TB_only	LLL_gr_B	Lung				10	33									57					
+null	30118	TB_only	LML	Lung																			
+null	30118	TB_only	LUL	Lung																			
+null	30118	TB_only	Mes_LN	ExtraPulmonary																			
+null	30118	TB_only	R_AX_LN	ExtraPulmonary																			
+null	30118	TB_only	R_carin_LN	LymphNodes																			
+null	30118	TB_only	R_ing_LN	ExtraPulmonary																			
+null	30118	TB_only	R_subclav_LN	LymphNodes																			
+null	30118	TB_only	RLL	Lung																			
+null	30118	TB_only	RLL_gr_1	Lung	53					47													
+null	30118	TB_only	RLL_gr_2	Lung	100																		
+null	30118	TB_only	RML	Lung																			
+null	30118	TB_only	RMS_LN	LymphNodes																			
+null	30118	TB_only	RUL	Lung																			
+null	30118	TB_only	Spleen	ExtraPulmonary																			

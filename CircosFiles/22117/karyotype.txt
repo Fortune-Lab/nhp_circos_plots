@@ -1,0 +1,91 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_gr_1   ACC_gr_1   0   100   white
+chr -  ACC_gr_A   ACC_gr_A   0   100   white
+chr -  ACC_gr_B   ACC_gr_B   0   100   white
+chr -  ACC_gr_C   ACC_gr_C   0   100   white
+
+chr -  RUL   RUL   0   100   white
+
+chr -  RML   RML   0   100   white
+
+chr -  RLL   RLL   0   100   white
+chr -  RLL_gr_1   RLL_gr_1   0   100   white
+chr -  RLL_gr_A   RLL_gr_A   0   100   white
+chr -  RLL_2_3_TB_pneum   RLL_2_3_TB_pneum   0   100   white
+chr -  RLL_4_TB_pneum   RLL_4_TB_pneum   0   100   white
+chr -  RLL_7_TB_pneum   RLL_7_TB_pneum   0   100   white
+chr -  RLL_8_9_10_11_TB_pneum   RLL_8_9_10_11_TB_pneum   0   100   white
+
+chr -  LUL   LUL   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_gr_1   LLL_gr_1   0   100   white
+chr -  LLL_gr_2   LLL_gr_2   0   100   white
+#
+chr -  R_carin_LN_gr   R_carin_LN_gr   0   100   white
+chr -  R_subclav_LN_gr   R_subclav_LN_gr   0   100   white
+
+chr -  L_carin_LN   L_carin_LN   0   100   white
+chr -  L_cran_HLN_1   L_cran_HLN_1   0   100   white
+chr -  L_cran_HLN_2   L_cran_HLN_2   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+chr -  LMS_LN   LMS_LN   0   100   white
+
+chr -  Pretrach_LN   Pretrach_LN   0   100   white
+#
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+chr -  R_post_paracost_abs   R_post_paracost_abs   0   100   white
+chr -  RT3_paracost_abs   RT3_paracost_abs   0   100   white
+chr -  RT4_paracost_abs   RT4_paracost_abs   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Diaphragm_gr_1   Diaphragm_gr_1   0   100   white
+chr -  Diaphragm_gr_2   Diaphragm_gr_2   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC   3   band1   0   100   blue
+band   ACC_gr_1   3   band1   0   100   blue
+band   ACC_gr_A   7   band1   0   100   chr7
+band   ACC_gr_B   3   band1   0   100   blue
+band   ACC_gr_C   3   band1   0   100   blue
+band   Diaphragm_gr_1   3   band1   0   45   blue
+band   Diaphragm_gr_1   6   band1   46   100   chr6
+band   Diaphragm_gr_2   3   band1   0   100   blue
+band   LLL_gr_1   9   band1   0   100   chr9
+band   LLL_gr_2   9   band1   0   100   chr9
+band   LMS_LN   9   band1   0   100   chr9
+band   Pretrach_LN   9   band1   0   100   chr9
+band   R_carin_LN_gr   1   band1   0   33   chr1
+band   R_carin_LN_gr   2   band1   34   49   chr2
+band   R_carin_LN_gr   3   band1   50   55   blue
+band   R_carin_LN_gr   4   band1   56   57   chr4
+band   R_carin_LN_gr   6   band1   58   67   chr6
+band   R_carin_LN_gr   9   band1   68   80   chr9
+band   R_carin_LN_gr   10   band1   81   100   chr10
+band   R_post_paracost_abs   3   band1   0   100   blue
+band   R_subclav_LN_gr   3   band1   0   100   blue
+band   RLL   1   band1   0   76   chr1
+band   RLL   2   band1   77   100   chr2
+band   RLL_2_3_TB_pneum   6   band1   0   6   chr6
+band   RLL_2_3_TB_pneum   8   band1   7   100   chr8
+band   RLL_4_TB_pneum   6   band1   0   100   chr6
+band   RLL_7_TB_pneum   5   band1   0   53   chr5
+band   RLL_7_TB_pneum   11   band1   54   100   chr11
+band   RLL_8_9_10_11_TB_pneum   2   band1   0   56   chr2
+band   RLL_8_9_10_11_TB_pneum   9   band1   57   100   chr9
+band   RLL_gr_1   6   band1   0   100   chr6
+band   RLL_gr_A   3   band1   0   100   blue
+band   RML   2   band1   0   100   chr2
+band   RT3_paracost_abs   6   band1   0   100   chr6
+band   RT4_paracost_abs   3   band1   0   100   blue
+band   RUL   2   band1   0   63   chr2
+band   RUL   3   band1   64   80   blue
+band   RUL   6   band1   81   100   chr6

@@ -1,0 +1,8 @@
+<rule>
+condition = on( LLL_gr_3 )
+condition = var(start1) >=  0
+condition = var(end1) <=  100
+color = chr1_a4
+radius2 = 1.0r
+</rule>
+#

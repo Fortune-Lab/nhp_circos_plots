@@ -1,0 +1,30 @@
+RLL_3 	 0 	 100 	 R_cran_HLN_1_gr 	 0 	 36
+RLL_3 	 0 	 100 	 RLL_LN 	 0 	 100
+RUL_2 	 0 	 100 	 RUL_RML_thick 	 0 	 100
+RUL_2 	 0 	 100	RLL 	 0 	 100 	 
+RUL_2 	 0 	 100	RUL_12 	 0 	 17
+RUL_2 	 0 	 100	RLL_C 	 0 	 100
+RUL_10 	 0 	 100 	 RUL_11 	 0 	 100
+RUL_10 	 0 	 100 	 R_cran_HLN_1_gr 	 54 	 100
+
+RUL_7 	 21 	 100 	 R_cran_HLN_2_gr 	 0 	 100
+RUL_7 	 21 	 100	RUL_8 	 0 	 100
+RUL_7 	 21 	 100	RUL_9 	 0 	 100 	 
+RUL_7 	 21 	 100 	 RUL_8 	 0 	 100
+RUL_7 	 21 	 100	ACC 	 61 	 100
+RUL_7 	 21 	 100	RUL_12 	 18 	 100
+RUL_7 	 21 	 100	LLL 	 0 	 100
+
+RLL_LN 	 0 	 100 	 R_carin 	 0 	 100
+#ACC 	 0 	 60 	 RUL_12 	 0 	 100
+#RUL_12 	 0 	 100 	 RLL_D 	 0 	 100
+ACC 	 0 	 60 	 RLL_D 	 0 	 100
+RUL_3_cluster 	 0 	 100 	 RUL_7 	 0 	 20
+RUL_6 	 0 	 100 	 R_cran_HLN_1_gr 	 37 	 53
+
+ 	 
+
+
+
+
+

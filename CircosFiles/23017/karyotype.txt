@@ -1,0 +1,143 @@
+chr -  ACC   ACC   0   100   white
+chr -  ACC_gr_1   ACC_gr_1   0   100   white
+
+chr -  RUL   RUL   0   100   white
+chr -  RUL_cluster_1   RUL_cluster_1   0   100   white
+chr -  RUL_cluster_9   RUL_cluster_9   0   100   white
+chr -  RUL_cluster_B   RUL_cluster_B   0   100   white
+chr -  RUL_gr_2   RUL_gr_2   0   100   white
+chr -  RUL_gr_3   RUL_gr_3   0   100   white
+chr -  RUL_gr_4   RUL_gr_4   0   100   white
+chr -  RUL_gr_5   RUL_gr_5   0   100   white
+chr -  RUL_gr_8   RUL_gr_8   0   100   white
+chr -  RUL_gr_A   RUL_gr_A   0   100   white
+
+chr -  RML   RML   0   100   white
+chr -  RML_gr_A   RML_gr_A   0   100   white
+
+chr -  RLL   RLL   0   100   white
+#chr -  RLL_cluster_A   RLL_cluster_A   0   100   white
+chr -  RLL_gr_1_2   RLL_gr_1_2   0   100   white
+chr -  RLL_gr_6   RLL_gr_6   0   100   white
+chr -  RLL_gr_8   RLL_gr_8   0   100   white
+chr -  RLL_gr_9   RLL_gr_9   0   100   white
+chr -  RLL_gr_10   RLL_gr_10   0   100   white
+chr -  RLL_gr_11   RLL_gr_11   0   100   white
+chr -  RLL_gr_12_13   RLL_gr_12_13   0   100   white
+chr -  RLL_gr_14   RLL_gr_14   0   100   white
+chr -  RLL_gr_15   RLL_gr_15   0   100   white
+chr -  RLL_gr_16   RLL_gr_16   0   100   white
+chr -  RLL_gr_17   RLL_gr_17   0   100   white
+chr -  RLL_gr_18   RLL_gr_18   0   100   white
+chr -  RLL_gr_19   RLL_gr_19   0   100   white
+chr -  RLL_gr_20   RLL_gr_20   0   100   white
+chr -  RLL_gr_21   RLL_gr_21   0   100   white
+chr -  RLL_gr_A   RLL_gr_A   0   100   white
+
+chr -  LUL   LUL   0   100   white
+chr -  LUL_gr_1   LUL_gr_1   0   100   white
+
+chr -  LML   LML   0   100   white
+
+chr -  LLL   LLL   0   100   white
+chr -  LLL_cluster_17   LLL_cluster_17   0   100   white
+chr -  LLL_gr_10   LLL_gr_10   0   100   white
+chr -  LLL_gr_14_TB_pneum   LLL_gr_14_TB_pneum   0   100   white
+chr -  LLL_gr_2   LLL_gr_2   0   100   white
+chr -  LLL_gr_A   LLL_gr_A   0   100   white
+chr -  LLL_sup_gr_6_7_9_TB_pneum   LLL_sup_gr_6_7_9_TB_pneum   0   100   white
+
+chr -  L_T10_paravert_LN   L_T10_paravert_LN   0   100   white
+chr -  L_T9_paravert_LN   L_T9_paravert_LN   0   100   white
+#
+
+chr -  R_cran_HLN   R_cran_HLN   0   100   white
+chr -  R_paratrach_LN_1_gr   R_paratrach_LN_1_gr   0   100   white
+chr -  R_paratrach_LN_2_gr   R_paratrach_LN_2_gr   0   100   white
+chr -  R_subclav_LN   R_subclav_LN   0   100   white
+chr -  RMS_LN_gr   RMS_LN_gr   0   100   white
+
+chr -  L_cran_HLN_gr   L_cran_HLN_gr   0   100   white
+chr -  L_subclav_LN   L_subclav_LN   0   100   white
+
+chr -  Cent_carin_LN_gr   Cent_carin_LN_gr   0   100   white
+
+#
+
+chr -  R_AX_LN   R_AX_LN   0   100   white
+chr -  R_ing_LN   R_ing_LN   0   100   white
+
+chr -  L_AX_LN   L_AX_LN   0   100   white
+chr -  L_ing_LN   L_ing_LN   0   100   white
+
+chr -  Mes_LN   Mes_LN   0   100   white
+chr -  Liver   Liver   0   100   white
+chr -  Spleen   Spleen   0   100   white
+#
+#
+band   ACC_gr_1   1   band1   0   100   chr1
+band   L_cran_HLN_gr   3   band1   0   63   chr3
+band   L_cran_HLN_gr   9   band1   64   100   chr9
+band   L_T10_paravert_LN   2   band1   0   100   chr2
+band   L_T9_paravert_LN   4   band1   0   100   chr4
+band   LLL   1   band1   0   100   chr1
+band   LLL_cluster_17   8   band1   0   100   chr8
+band   LLL_gr_10   6   band1   0   100   chr6
+band   LLL_gr_14_TB_pneum   5   band1   0   100   chr5
+band   LLL_gr_2   3   band1   0   100   chr3
+band   LLL_gr_A   10   band1   0   100   blue
+band   LLL_sup_gr_6_7_9_TB_pneum   1   band1   0   100   chr1
+band   LML   2   band1   0   49   chr2
+band   LML   7   band1   50   100   chr7
+band   LUL   3   band1   0   100   chr3
+band   LUL_gr_1   1   band1   0   11   chr1
+band   LUL_gr_1   2   band1   12   31   chr2
+band   LUL_gr_1   5   band1   32   67   chr5
+band   LUL_gr_1   10   band1   68   100   blue
+band   R_cran_HLN   10   band1   0   100   blue
+band   R_paratrach_LN_1_gr   11   band1   0   100   chr11
+band   RLL   10   band1   0   77   blue
+band   RLL   11   band1   78   100   chr11
+#band   RLL_cluster_A   10   band1   0   100   blue
+band   RLL_gr_1_2   1   band1   0   16   chr1
+band   RLL_gr_1_2   5   band1   17   69   chr5
+band   RLL_gr_1_2   10   band1   70   100   blue
+band   RLL_gr_10   10   band1   0   100   blue
+band   RLL_gr_12_13   3   band1   0   38   chr3
+band   RLL_gr_12_13   7   band1   39   59   chr7
+band   RLL_gr_12_13   9   band1   60   85   chr9
+band   RLL_gr_12_13   10   band1   86   100   blue
+band   RLL_gr_15   10   band1   0   100   blue
+band   RLL_gr_16   10   band1   0   100   blue
+band   RLL_gr_18   10   band1   0   100   blue
+band   RLL_gr_19   10   band1   0   78   blue
+band   RLL_gr_19   11   band1   79   100   chr11
+band   RLL_gr_20   10   band1   0   100   blue
+band   RLL_gr_21   10   band1   0   100   blue
+band   RLL_gr_6   10   band1   0   100   blue
+band   RLL_gr_8   10   band1   0   100   blue
+band   RLL_gr_9   10   band1   0   100   blue
+band   RLL_gr_A   1   band1   0   28   chr1
+band   RLL_gr_A   5   band1   29   52   chr5
+band   RLL_gr_A   7   band1   53   75   chr7
+band   RLL_gr_A   10   band1   76   100   blue
+band   RML   3   band1   0   12   chr3
+band   RML   9   band1   13   25   chr9
+band   RML   10   band1   26   92   blue
+band   RML   11   band1   93   100   chr11
+band   RML_gr_A   10   band1   0   100   blue
+band   RMS_LN_gr   7   band1   0   40   chr7
+band   RMS_LN_gr   10   band1   41   100   blue
+band   RUL   10   band1   0   89   blue
+band   RUL   11   band1   90   100   chr11
+band   RUL_cluster_1   10   band1   0   100   blue
+band   RUL_cluster_9   10   band1   0   100   blue
+band   RUL_cluster_B   1   band1   0   46   chr1
+band   RUL_cluster_B   10   band1   47   100   blue
+band   RUL_gr_2   1   band1   0   12   chr1
+band   RUL_gr_2   10   band1   13   100   blue
+band   RUL_gr_3   7   band1   0   13   chr7
+band   RUL_gr_3   9   band1   14   23   chr9
+band   RUL_gr_3   10   band1   24   100   blue
+band   RUL_gr_5   10   band1   0   100   blue
+band   RUL_gr_8   10   band1   0   100   blue
